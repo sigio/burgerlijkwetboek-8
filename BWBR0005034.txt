@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 01-06-2005 t/m 31-08-2005
+Geldend van 01-09-2005 t/m 31-01-2006
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -27,7 +27,7 @@ Artikel 1
 
 Artikel 2
 
-1.	In dit wetboek worden onder zeeschepen verstaan de schepen, die teboekstaan in het in artikel 193 genoemde register, alsmede de schepen, die noch in dit register, noch in het in artikel 783 genoemde register te boekstaan en blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd.
+1.	In dit wetboek worden onder zeeschepen verstaan de schepen die als zeeschip teboekstaan in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, en de schepen die niet teboekstaan in die registers en blijkens hun constructie uitsluitend of in hoofdzaak voor drijven in zee zijn bestemd.
 
 2.	Bij algemene maatregel van bestuur kunnen schepen, die geen zeeschepen zijn, voor de toepassing van bepalingen van dit wetboek als zeeschip worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op schepen, die zeeschepen zijn.
 
@@ -35,7 +35,7 @@ Artikel 2
 
 Artikel 3
 
-1.	In dit wetboek worden onder binnenschepen verstaan de schepen, die teboekstaan in het in artikel 783 genoemde register, alsmede de schepen, die noch in dit register, noch in het in artikel 193 genoemde register teboekstaan en blijkens hun constructie noch uitsluitend noch in hoofdzaak voor drijven in zee zijn bestemd.
+1.	In dit wetboek worden onder binnenschepen verstaan de schepen die als binnenschip teboekstaan in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, en de schepen die niet teboekstaan in die registers en blijkens hun constructie noch uitsluitend noch in hoofdzaak voor drijven in zee zijn bestemd.
 
 2.	Bij algemene maatregel van bestuur kunnen schepen, die geen binnenschepen zijn, voor de toepassing van bepalingen van dit wetboek als binnenschip worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op schepen, die binnenschepen zijn.
 
@@ -681,9 +681,7 @@ Artikel 190
 
 Artikel 191
 
-In deze afdeling wordt verstaan onder:
-	a.	de openbare registers: de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3;
-	b.	het register: het register bedoeld in artikel 193.
+In deze afdeling wordt onder de openbare registers verstaan de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3.
 
 Artikel 192
 
@@ -691,7 +689,7 @@ De in deze afdeling aan de reder opgelegde verplichtingen rusten, indien het sch
 
 Artikel 193
 
-Er wordt een afzonderlijk openbaar register gehouden voor de teboekstelling van zeeschepen, dat deel uitmaakt van de openbare registers.
+[Vervallen per 01-09-2005]
 
 Artikel 194
 
@@ -700,13 +698,13 @@ Artikel 194
 	-	van een afgebouwd zeeschip: indien het een Nederlands schip is in de zin van artikel 311 van het Wetboek van Koophandel
 	-	dan wel ingeval het een zeevissersschip is: indien het is ingeschreven in een krachtens artikel 3 der Visserijwet 1963 aangehouden register.
 
-2.	Teboekstelling is niet mogelijk van een zeeschip dat reeds teboekstaat in het register, in het in artikel 783 genoemde register of in enig soortgelijk buitenlands register.
+2.	Teboekstelling is niet mogelijk van een zeeschip dat reeds teboekstaat in de openbare registers, hetzij als zeeschip hetzij als binnenschip, of in enig soortgelijk buitenlands register.
 
-3.	In afwijking van het tweede lid is teboekstelling van een zeeschip dat in een buitenlands register teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat register is doorgehaald, een Nederlands schip in de zin van artikel 311 van het Wetboek van Koophandel zal zijn of wanneer dit schip als zeevissersschip is ingeschreven in een krachtens artikel 3 der Visserijwet 1963 aangehouden register. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij binnen 30 dagen is gevolgd door aantekening in het register, dat de teboekstelling in het buitenlandse register is doorgehaald, of wanneer, ingeval de bewaarder van een buitenlands register ondanks daartoe schriftelijk tot hem gericht verzoek doorhaling weigert, van dit verzoek en van het feit dat er geen gevolg aan is gegeven, aantekening in het Nederlandse register is geschied.
+3.	In afwijking van het tweede lid is teboekstelling van een zeeschip dat in een buitenlands register teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat register is doorgehaald, een Nederlands schip in de zin van artikel 311 van het Wetboek van Koophandel zal zijn of wanneer dit schip als zeevissersschip is ingeschreven in een krachtens artikel 3 der Visserijwet 1963 aangehouden register. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij binnen 30 dagen is gevolgd door aantekening in de openbare registers, dat de teboekstelling in het buitenlandse register is doorgehaald, of wanneer, ingeval de bewaarder van een buitenlands register ondanks daartoe schriftelijk tot hem gericht verzoek doorhaling weigert, van dit verzoek en van het feit dat er geen gevolg aan is gegeven, aantekening in de openbare registers is geschied.
 
 4.	De teboekstelling wordt verzocht door de reder van het zeeschip. Hij moet daarbij ter inschrijving overleggen een door hem ondertekende verklaring, dat naar zijn beste weten het schip voor teboekstelling als zeeschip vatbaar is. Indien het een verzoek tot teboekstelling als zeeschip in aanbouw betreft, gaat deze verklaring vergezeld van een bewijs dat het schip in Nederland in aanbouw is. Indien het een verzoek tot teboekstelling als zeeschip, niet zijnde een zeeschip in aanbouw of een zeevissersschip, betreft, gaat deze verklaring vergezeld van een door of namens Onze Minister van Verkeer en Waterstaat afgegeven verklaring als bedoeld in artikel 311a, eerste lid, van het Wetboek van Koophandel. Indien het een verzoek tot teboekstelling als zeevissersschip betreft, gaat deze verklaring vergezeld van een bewijs dat het schip is ingeschreven in een krachtens artikel 3 van de Visserijwet 1963 aangehouden register.
 
-5.	De teboekstelling in het register heeft geen rechtsgevolg, wanneer aan de vereisten van de voorgaande leden van dit artikel niet is voldaan.
+5.	De teboekstelling in de openbare registers heeft geen rechtsgevolg, wanneer aan de vereisten van de voorgaande leden van dit artikel niet is voldaan.
 
 6.	Bij het verzoek tot teboekstelling wordt woonplaats gekozen in Nederland. Deze woonplaats wordt in het verzoek tot teboekstelling vermeld en kan door een andere in Nederland gelegen woonplaats worden vervangen.
 
@@ -718,7 +716,7 @@ Artikel 195
 		1°.	als het schip is vergaan, gesloopt is of blijvend ongeschikt voor drijven is geworden;
 		2°.	als van het schip gedurende 6 maanden na het laatste uitvaren of de dag, waartoe zich de laatst ontvangen berichten uitstrekken, in het geheel geen tijding is aangekomen, zonder dat dit aan een algemene storing in de berichtgeving kan worden geweten;
 		3°.	als het schip door rovers of vijanden is genomen;
-		4°.	als het schip, indien het niet in het register te boek zou staan, een binnenschip zou zijn in de zin van artikel 3 of artikel 780;
+		4°.	als het schip, indien het niet in de openbare registers te boek zou staan, een binnenschip zou zijn in de zin van artikel 3 of artikel 780;
 		5°.	als het schip niet of niet meer de hoedanigheid van Nederlands schip heeft dan wel niet of niet meer is ingeschreven in een krachtens artikel 3 der Visserijwet 1963 aangehouden register. Ambtshalve doorhaling wegens het verlies van de hoedanigheid van Nederlands schip geschiedt uitsluitend na ontvangst van een mededeling van de intrekking van een verklaring als bedoeld in artikel 311a, eerste lid, van het Wetboek van Koophandel. Wanneer het schip de hoedanigheid van Nederlands schip heeft verloren door toewijzing na een executie buiten Nederland, dan wel de inschrijving van het schip in een krachtens artikel 3 der Visserijwet 1963 aangehouden register is doorgehaald, vindt doorhaling slechts plaats, wanneer hetzij de reder, degenen van wier recht uit een inschrijving blijkt en de beslagleggers gelegenheid hebben gehad hun rechten op de opbrengst geldend te maken en hun daartoe ook feitelijk de gelegenheid is gegeven, hetzij deze personen hun toestemming tot de doorhaling verlenen of hun vorderingen zijn voldaan.
 
 2.	In de in het eerste lid onder b genoemde gevallen is de reder tot het doen van aangifte verplicht binnen drie maanden nadat de reden tot doorhaling zich heeft voorgedaan.
@@ -729,13 +727,13 @@ Artikel 195
 
 Artikel 196
 
-1.	Zolang de teboekstelling in het register niet is doorgehaald heeft teboekstelling van een zeeschip in een buitenlands register of vestiging in het buitenland van rechten daarop, voor vestiging waarvan in Nederland inschrijving in de openbare registers vereist zou zijn geweest, geen rechtsgevolg.
+1.	Zolang de teboekstelling in de openbare registers niet is doorgehaald heeft teboekstelling van een zeeschip in een buitenlands register of vestiging in het buitenland van rechten daarop, voor vestiging waarvan in Nederland inschrijving in de openbare registers vereist zou zijn geweest, geen rechtsgevolg.
 
-2.	In afwijking van het eerste lid wordt een teboekstelling of vestiging van rechten als daar bedoeld erkend, wanneer deze geschiedde onder voorwaarde van doorhaling van de teboekstelling in het Nederlandse register binnen 30 dagen na de teboekstelling van het schip in het buitenlandse register.
+2.	In afwijking van het eerste lid wordt een teboekstelling of vestiging van rechten als daar bedoeld erkend, wanneer deze geschiedde onder voorwaarde van doorhaling van de teboekstelling in de openbare registers binnen 30 dagen na de teboekstelling van het schip in het buitenlandse register.
 
 Artikel 197
 
-De enige zakelijke rechten, waarvan een in het register teboekstaand zeeschip het voorwerp kan zijn, zijn de eigendom, de hypotheek, het vruchtgebruik en de in artikel 211 en artikel 217 eerste lid onder b genoemde voorrechten.
+De enige zakelijke rechten, waarvan een in de openbare registers teboekstaand zeeschip het voorwerp kan zijn, zijn de eigendom, de hypotheek, het vruchtgebruik en de in artikel 211 en artikel 217 eerste lid onder b genoemde voorrechten.
 
 Artikel 198
 
@@ -743,7 +741,7 @@ Artikel 198
 
 Artikel 199
 
-1.	Een in het register teboekstaand zeeschip is een registergoed.
+1.	Een in de openbare registers teboekstaand zeeschip is een registergoed.
 
 2.	Bij toepassing van artikel 301 van Boek 3 ter zake van akten die op de voet van artikel 89 leden 1 en 4 van Boek 3 zijn bestemd voor de levering van zodanig zeeschip, kan de in het eerste genoemde artikel bedoelde uitspraak van de Nederlandse rechter niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.
 
@@ -920,7 +918,7 @@ Artikel 230
 
 2.	De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3. Artikel 24 lid 1 van Boek 3 is niet van toepassing;
 
-3.	De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in het in artikel 193 bedoelde register.
+3.	De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.
 
 Artikel 231
 
@@ -2227,9 +2225,8 @@ Artikel 781
 In deze afdeling wordt verstaan onder:
 	a.	het Verdrag van Genève: de op 25 januari 1965 te Genève gesloten overeenkomst inzake inschrijving van binnenschepen, met Protocollen (Trb. 1966, 228);
 	b.	verdragsstaat: een staat waarvoor het Verdrag van Genève van kracht is;
-	c.	het register: het in artikel 783 genoemde register;
-	d.	verdragsregister: een buiten Nederland in een verdragsstaat gehouden register, als bedoeld in artikel 2 van het Verdrag van Genève;
-	e.	de openbare registers: de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3.
+	c.	verdragsregister: een buiten Nederland in een verdragsstaat gehouden register, als bedoeld in artikel 2 van het Verdrag van Genève;
+	d.	de openbare registers: de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3.
 
 Artikel 782
 
@@ -2237,7 +2234,7 @@ De in deze afdeling aan de eigenaar opgelegde verplichtingen rusten, indien het 
 
 Artikel 783
 
-Er wordt een afzonderlijk openbaar register gehouden voor de teboekstelling van binnenschepen, dat deel uitmaakt van de openbare registers.
+[Vervallen per 01-09-2005]
 
 Artikel 784
 
@@ -2250,15 +2247,15 @@ Artikel 784
 
 met dien verstande, dat in geval van mede-eigendom van het binnenschip de onder b en c genoemde voorwaarden niet als vervuld worden beschouwd, wanneer niet het schip tenminste voor de helft in eigendom toebehoort aan natuurlijke personen, rechtspersonen of vennootschappen, die aan deze voorwaarden voldoen.
 
-2.	Teboekstelling is niet mogelijk van een binnenschip dat reeds teboek staat in het register, in het in artikel 193 genoemde register of in een verdragsregister.
+2.	Teboekstelling is niet mogelijk van een binnenschip dat reeds teboekstaat in de openbare registers, hetzij als binnenschip hetzij als zeeschip, of in een verdragsregister.
 
-3.	In afwijking van het tweede lid is teboekstelling van een binnenschip dat in een verdragsregister teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat verdragsregister is doorgehaald, volgens het eerste lid kan worden teboekgesteld. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij is gevolgd door aantekening in het register, dat de teboekstelling in het verdragsregister is doorgehaald.
+3.	In afwijking van het tweede lid is teboekstelling van een binnenschip dat in een verdragsregister teboekstaat mogelijk, wanneer dit schip, nadat de teboekstelling ervan in dat verdragsregister is doorgehaald, volgens het eerste lid kan worden teboekgesteld. Deze teboekstelling heeft evenwel slechts rechtsgevolg, wanneer zij is gevolgd door aantekening in de openbare registers, dat de teboekstelling in het verdragsregister is doorgehaald.
 
 4.	In afwijking van het tweede lid is teboekstelling van een binnenschip dat in een verdragsregister teboekstaat mogelijk, wanneer de bewaarder van dat register uit hoofde van het tweede lid van artikel 22 van Protocol no. 2 bij het Verdrag van Genève weigert het eigendomsrecht van de koper na gedwongen verkoop in te schrijven.
 
 5.	De teboekstelling wordt verzocht door de eigenaar van het binnenschip. Hij moet daarbij ter inschrijving overleggen een door hem ondertekende verklaring, dat naar zijn beste weten het schip voor teboekstelling als binnenschip vatbaar is.
 
-6.	De teboekstelling in het register heeft geen rechtsgevolg, wanneer aan de vereisten van de voorgaande leden van dit artikel niet is voldaan.
+6.	De teboekstelling in de openbare registers heeft geen rechtsgevolg, wanneer aan de vereisten van de voorgaande leden van dit artikel niet is voldaan.
 
 7.	Bij het verzoek tot teboekstelling wordt woonplaats gekozen in Nederland. Deze woonplaats wordt in het verzoek tot teboekstelling vermeld en kan door een andere in Nederland gelegen woonplaats worden vervangen.
 
@@ -2276,14 +2273,14 @@ Artikel 786
 1.	De teboekstelling wordt slechts doorgehaald
 	a.	op verzoek van degeen, die in de openbare registers als eigenaar vermeld staat
 		1°.	als de teboekstelling niet of niet meer verplicht is;
-		2°.	als het schip in een verdragsregister teboekstaat onder voorwaarde van doorhaling van de teboekstelling in het Nederlandse register;
+		2°.	als het schip in een verdragsregister teboekstaat onder voorwaarde van doorhaling van de teboekstelling in de openbare registers;
 		3°.	als het schip in het register van een niet-verdragsstaat zal worden te boekgesteld en in die staat zal voldoen aan tenminste één der in het eerste lid van artikel 3 van het Verdrag van Genève genoemde voorwaarden. In dit geval heeft de doorhaling slechts rechtsgevolg, wanneer binnen 30 dagen daarna door de eigenaar wordt overgelegd een door hem ondertekende verklaring, dat het schip in het register van de genoemde staat teboekstaat en aldaar voldoet aan tenminste één der in het eerste lid van artikel 3 van het Verdrag van Genève genoemde voorwaarden.
 	b.	op aangifte van de eigenaar of ambtshalve
 		1°.	als het schip vergaan is, gesloopt is of blijvend ongeschikt voor drijven is geworden;
 		2°.	als het schip door rovers of vijanden is genomen;
-		3°.	als het schip, indien het niet in het register teboek zou staan, een zeeschip zou zijn in de zin van artikel 2 of een dergelijk zeeschip in aanbouw;
+		3°.	als het schip, indien het niet in de openbare registers teboek zou staan, een zeeschip zou zijn in de zin van artikel 2 of een dergelijk zeeschip in aanbouw;
 		4°.	als het schip niet of niet meer voldoet aan tenminste één der in het eerste lid van artikel 784 voor teboekstelling genoemde voorwaarden;
-		5°.	als het schip in een verdragsregister teboekstaat zonder dat daarbij de voorwaarde van doorhaling van de teboekstelling in het Nederlandse register is gesteld.
+		5°.	als het schip in een verdragsregister teboekstaat zonder dat daarbij de voorwaarde van doorhaling van de teboekstelling in de openbare registers is gesteld.
 
 2.	In de in het eerste lid onder b genoemde gevallen is de eigenaar tot het doen van aangifte verplicht binnen drie maanden nadat de reden tot doorhaling zich heeft voorgedaan.
 
@@ -2293,9 +2290,9 @@ Artikel 786
 
 Artikel 787
 
-1.	Zolang de teboekstelling in het register niet is doorgehaald heeft teboekstelling van een binnenschip in een register van een niet-verdragsstaat of vestiging in een niet-verdragsstaat van rechten daarop, voor vestiging waarvan in Nederland inschrijving in de openbare registers vereist zou zijn geweest geen rechtsgevolg.
+1.	Zolang de teboekstelling in de openbare registers niet is doorgehaald heeft teboekstelling van een binnenschip in een register van een niet-verdragsstaat of vestiging in een niet-verdragsstaat van rechten daarop, voor vestiging waarvan in Nederland inschrijving in de openbare registers vereist zou zijn geweest geen rechtsgevolg.
 
-2.	In afwijking van het eerste lid wordt een teboekstelling of vestiging van rechten als daar bedoeld erkend, wanneer deze geschiedde onder voorwaarde van doorhaling van de teboekstelling in het Nederlandse register binnen 30 dagen na de teboekstelling van het schip in het buitenlandse register.
+2.	In afwijking van het eerste lid wordt een teboekstelling of vestiging van rechten als daar bedoeld erkend, wanneer deze geschiedde onder voorwaarde van doorhaling van de teboekstelling in de openbare registers binnen 30 dagen na de teboekstelling van het schip in het buitenlandse register.
 
 Artikel 788
 
@@ -2307,7 +2304,7 @@ Artikel 789
 
 Artikel 790
 
-1.	Een in het register teboekstaand binnenschip is een registergoed.
+1.	Een in de openbare registers teboekstaand binnenschip is een registergoed.
 
 2.	Bij toepassing van artikel 301 van Boek 3 ter zake van akten die op de voet van artikel 89 leden 1 en 4 van Boek 3 zijn bestemd voor de levering van een zodanig binnenschip, kan de in het eerste genoemde artikel bedoelde uitspraak van de Nederlandse rechter niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.
 
@@ -2581,7 +2578,7 @@ Artikel 840
 
 2.	De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in afdeling 2 van Titel 1 van Boek 3. Artikel 24 lid 1 van Boek 3 is niet van toepassing.
 
-3.	De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in het in artikel 783 bedoelde register.
+3.	De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.
 
 Artikel 841
 
@@ -4376,9 +4373,8 @@ Artikel 1300
 In deze titel wordt verstaan onder:
 	a.	het Verdrag van Genève: het op 19 juni 1948 te Genève tot stand gekomen Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen (Trb. 1952, 86);
 	b.	Verdragsstaat: een staat waarvoor het Verdrag van Genève van kracht is;
-	c.	het register: het register, bedoeld in artikel 1302;
-	d.	verdragsregister: een buiten Nederland gehouden register als bedoeld in artikel I, eerste lid, onder ii, van het Verdrag van Genève;
-	e.	de openbare registers: de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.
+	c.	verdragsregister: een buiten Nederland gehouden register als bedoeld in artikel I, eerste lid, onder ii, van het Verdrag van Genève;
+	d.	de openbare registers: de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.
 
 Artikel 1301
 
@@ -4386,21 +4382,21 @@ De in deze afdeling aan de eigenaar opgelegde verplichtingen rusten, indien het 
 
 Artikel 1302
 
-Er wordt een afzonderlijk openbaar register gehouden voor de teboekstelling van luchtvaartuigen, dat deel uitmaakt van de openbare registers.
+[Vervallen per 01-09-2005]
 
 Artikel 1303
 
 1.	Teboekstelling is slechts mogelijk indien
-	a.	het luchtvaartuig een Nederlands luchtvaartuig is in de zin der Luchtvaartwet, en
+	a.	het luchtvaartuig een Nederlands luchtvaartuig is in de zin van de Wet luchtvaart, en
 	b.	het luchtvaartuig ten minste een bij algemene maatregel van bestuur vastgesteld gewicht heeft.
 
-2.	Teboekstelling is niet mogelijk van een luchtvaartuig dat reeds teboekstaat in het register, in een verdragsregister of in enig soortgelijk buitenlands register.
+2.	Teboekstelling is niet mogelijk van een luchtvaartuig dat reeds teboekstaat in de openbare registers, in een verdragsregister of in enig soortgelijk buitenlands register.
 
 3.	In afwijking van het tweede lid is teboekstelling van een in een verdragsregister of in enig soortgelijk register teboekstaand luchtvaartuig mogelijk, wanneer de eigenaar de eigendom van het luchtvaartuig heeft verkregen door toewijzing na een executie, welke in Nederland heeft plaatsgevonden.
 
 4.	De teboekstelling wordt verzocht door de eigenaar van het luchtvaartuig. Hij moet daarbij ter inschrijving overleggen een door hem ondertekende verklaring, dat naar zijn beste weten het luchtvaartuig voor teboekstelling vatbaar is. Deze verklaring behoeft de goedkeuring van de rechter.
 
-5.	De teboekstelling in het register heeft geen rechtsgevolg, wanneer aan de vereisten van de voorgaande leden van dit artikel niet is voldaan.
+5.	De teboekstelling in de openbare registers heeft geen rechtsgevolg, wanneer aan de vereisten van de voorgaande leden van dit artikel niet is voldaan.
 
 6.	Bij het verzoek tot teboekstelling wordt woonplaats gekozen in Nederland. Deze woonplaats wordt in het verzoek tot teboekstelling vermeld en kan door een andere in Nederland gelegen woonplaats worden vervangen.
 
@@ -4422,11 +4418,11 @@ Artikel 1304
 
 Artikel 1305
 
-De enige zakelijke rechten waarvan een in het register teboekstaand luchtvaartuig het voorwerp kan zijn, zijn de eigendom, de hypotheek en de zakelijke rechten, bedoeld in de artikelen 1308 en 1309.
+De enige zakelijke rechten waarvan een in de openbare registers teboekstaand luchtvaartuig het voorwerp kan zijn, zijn de eigendom, de hypotheek en de zakelijke rechten, bedoeld in de artikelen 1308 en 1309.
 
 Artikel 1306
 
-1.	Een in het register teboekstaand luchtvaartuig is een registergoed.
+1.	Een in de openbare registers teboekstaand luchtvaartuig is een registergoed.
 
 2.	Bij de toepassing van artikel 301 van Boek 3 ter zake van akten die op de voet van artikel 89, eerste en vierde lid, van Boek 3 zijn bestemd voor de levering van zodanig luchtvaartuig, kan de in het eerstgenoemde artikel bedoelde uitspraak van de Nederlandse rechter niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.
 
@@ -4470,15 +4466,15 @@ Afdeling 2. Voorrechten op luchtvaartuigen
 
 Artikel 1315
 
-In geval van uitwinning van een luchtvaartuig dat teboekstaat in het register of in een verdragsregister, worden de kosten van uitwinning, de kosten van bewaking tijdens deze uitwinning, de kosten na het beslag gemaakt tot behoud van het luchtvaartuig, daaronder begrepen de kosten van herstellingen die onontbeerlijk waren voor het behoud daarvan, alle andere kosten in het belang van de schuldeisers gemaakt tijdens de executie, alsmede de kosten van de gerechtelijke rangregeling en verdeling van de opbrengst onder de schuldeisers uit de opbrengst van de verkoop voldaan boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend.
+In geval van uitwinning van een luchtvaartuig dat teboekstaat in de openbare registers of in een verdragsregister, worden de kosten van uitwinning, de kosten van bewaking tijdens deze uitwinning, de kosten na het beslag gemaakt tot behoud van het luchtvaartuig, daaronder begrepen de kosten van herstellingen die onontbeerlijk waren voor het behoud daarvan, alle andere kosten in het belang van de schuldeisers gemaakt tijdens de executie, alsmede de kosten van de gerechtelijke rangregeling en verdeling van de opbrengst onder de schuldeisers uit de opbrengst van de verkoop voldaan boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend.
 
 Artikel 1316
 
-Artikel 292 van Boek 3 en de artikelen 60, tweede lid, eerste zin, derde lid en vierde lid, en 299b, derde tot en met vijfde lid, van de Faillissementswet zijn niet van toepassing op luchtvaartuigen die teboekstaan in het register of in een verdragsregister.
+Artikel 292 van Boek 3 en de artikelen 60, tweede lid, eerste zin, derde lid en vierde lid, en 299b, derde tot en met vijfde lid, van de Faillissementswet zijn niet van toepassing op luchtvaartuigen die teboekstaan in de openbare registers of in een verdragsregister.
 
 Artikel 1317
 
-1.	Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend zijn, behoudens artikel 1315, op een luchtvaartuig dat op het tijdstip van het ontstaan van de hierna genoemde vorderingen teboekstaat in het register of in een verdragsregister, bevoorrecht:
+1.	Boven alle andere vorderingen waaraan bij deze of enige andere wet een voorrecht is toegekend zijn, behoudens artikel 1315, op een luchtvaartuig dat op het tijdstip van het ontstaan van de hierna genoemde vorderingen teboekstaat in de openbare registers of in een verdragsregister, bevoorrecht:
 	a.	de vorderingen tot betaling van hulploon voor aan het luchtvaartuig verleende hulp;
 	b.	de vorderingen tot betaling van buitengewone kosten, noodzakelijk voor het behoud van het luchtvaartuig.
 
