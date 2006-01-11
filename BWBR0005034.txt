@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 19-07-2006 t/m 30-11-2006
+Geldend van 01-12-2006 t/m 31-03-2009
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -46,6 +46,14 @@ Artikel 3a
 2.	Het casco, de motoren, de luchtschroeven, de radiotoestellen en alle andere voorwerpen bestemd voor gebruik in of aan het toestel, onverschillig of zij daarin of daaraan zijn aangebracht dan wel tijdelijk ervan zijn gescheiden, zijn bestanddeel van het luchtvaartuig.
 
 3.	Bij algemene maatregel van bestuur kunnen zaken die geen luchtvaartuigen zijn, voor de toepassing van bepalingen van dit wetboek als luchtvaartuig worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op zaken die luchtvaartuigen zijn.
+
+Artikel 3b
+
+In dit wetboek wordt verstaan onder:
+	a.	spoorvoertuig: voertuig, bestemd voor het verkeer over spoorwegen;
+	b.	spoorweginfrastructuur: spoorwegen als bedoeld in artikel 1 onder b van de Spoorwegwet en daarbij horende spoorweginfrastructuur als bedoeld in artikel 1 onder c van de Spoorwegwet;
+	c.	beheerder van de spoorweginfrastructuur: de beheerder bedoeld in artikel 1 onder h van de Spoorwegwet dan wel, indien die bepaling niet van toepassing is, degene die de spoorweginfrastructuur ter beschikking stelt.
+	d.	spoorwegonderneming: elke spoorwegonderneming als bedoeld in artikel 1 onder f van de Spoorwegwet.
 
 Artikel 4
 
@@ -161,7 +169,7 @@ Afdeling 2. Overeenkomst van gecombineerd goederenvervoer
 
 Artikel 40
 
-De overeenkomst van gecombineerd goederenvervoer is de overeenkomst van goederenvervoer, waarbij de vervoerder (gecombineerd vervoerder) zich bij een en dezelfde overeenkomst tegenover de afzender verbindt dat het vervoer deels over zee, over binnenwateren, over de weg, langs spoorstaven, door de lucht of door een pijpleiding dan wel door middel van enige andere vervoerstechniek zal geschieden.
+De overeenkomst van gecombineerd goederenvervoer is de overeenkomst van goederenvervoer, waarbij de vervoerder (gecombineerd vervoerder) zich bij een en dezelfde overeenkomst tegenover de afzender verbindt dat het vervoer deels over zee, over binnenwateren, over de weg, over spoorwegen, door de lucht of door een pijpleiding dan wel door middel van enige andere vervoerstechniek zal geschieden.
 
 Artikel 41
 
@@ -212,7 +220,7 @@ Artikel 46
 
 2.	Voor het deel van het vervoer, dat overeenkomstig de tussen partijen gesloten overeenkomst over de weg zal plaatsvinden, wordt het CT-document als vrachtbrief aangemerkt.
 
-3.	Voor het deel van het vervoer, dat overeenkomstig de tussen partijen gesloten overeenkomst langs spoorstaven of door de lucht zal plaatsvinden, wordt het CT-document, mits het mede aan de daarvoor gestelde vereisten voldoet, als voor dergelijk vervoer bestemd document aangemerkt.
+3.	Voor het deel van het vervoer, dat overeenkomstig de tussen partijen gesloten overeenkomst over spoorwegen of door de lucht zal plaatsvinden, wordt het CT-document, mits het mede aan de daarvoor gestelde vereisten voldoet, als voor dergelijk vervoer bestemd document aangemerkt.
 
 Artikel 47
 
@@ -410,7 +418,7 @@ Afdeling 5. Overeenkomst tot binnenlands openbaar personenvervoer
 
 Artikel 100
 
-1.	De overeenkomst van personenvervoer in de zin van deze afdeling is de overeenkomst van personenvervoer, waarbij de ene partij (de vervoerder) zich tegenover de andere partij verbindt aan boord van een vervoermiddel, geen luchtvaartuig noch luchtkussenvoertuig zijnde, een of meer personen (reizigers) en al dan niet hun handbagage binnen Nederland hetzij langs spoorstaven hetzij op andere wijze en dan volgens een voor een ieder kenbaar schema van reismogelijkheden (dienstregeling) te vervoeren. Tijd- of reisbevrachting is, voor zover het niet betreft vervoer langs spoorstaven, geen overeenkomst van personenvervoer in de zin van deze afdeling.
+1.	De overeenkomst van personenvervoer in de zin van deze afdeling is de overeenkomst van personenvervoer, waarbij de ene partij (de vervoerder) zich tegenover de andere partij verbindt aan boord van een vervoermiddel, geen luchtvaartuig noch luchtkussenvoertuig zijnde, een of meer personen (reizigers) en al dan niet hun handbagage binnen Nederland hetzij over spoorwegen hetzij op andere wijze en dan volgens een voor een ieder kenbaar schema van reismogelijkheden (dienstregeling) te vervoeren. Tijd- of reisbevrachting is, voor zover het niet betreft vervoer over spoorwegen, geen overeenkomst van personenvervoer in de zin van deze afdeling.
 
 2.	Als vervoerder in de zin van deze afdeling wordt tevens beschouwd de instantie die op een mogelijkerwijs afgegeven vervoerbewijs is vermeld. Wordt enig vervoerbewijs afgegeven dan zijn de artikelen 56, tweede lid, 75, eerste lid en 186, eerste lid van boek 2 niet van toepassing.
 
@@ -452,6 +460,8 @@ Artikel 105
 
 4.	Bij de toepassing van het tweede lid wordt slechts dan rekening gehouden met een gedraging van een derde, indien geen andere omstandigheid, die mede tot het ongeval leidde, voor rekening van de vervoerder is.
 
+5.	In geval van vervoer over spoorwegen worden de beheerders van de spoorweginfrastructuur waarop het vervoer wordt verricht, beschouwd als personen van wier diensten de vervoerder bij de uitvoering van het vervoer gebruik maakt, en wordt die infrastructuur beschouwd als materiaal waarvan de vervoerder zich bij het vervoer bedient.
+
 Artikel 106
 
 1.	De vervoerder is aansprakelijk voor schade veroorzaakt door geheel of gedeeltelijk verlies dan wel beschadiging van handbagage of van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan, voor zover dit verlies of deze beschadiging is ontstaan tijdens het vervoer en is veroorzaakt
@@ -462,7 +472,9 @@ Artikel 106
 
 3.	Bij de toepassing van het eerste lid wordt slechts dan rekening gehouden met een gedraging van een derde, indien geen andere omstandigheid die mede tot het voorval leidde voor rekening van de vervoerder is.
 
-4.	Dit artikel laat de artikelen 545 en 1006 onverlet.
+4.	In geval van vervoer over spoorwegen worden de beheerders van de spoorweginfrastructuur waarop het vervoer wordt verricht, beschouwd als personen van wier diensten de vervoerder bij de uitvoering van het vervoer gebruik maakt, en wordt die infrastructuur beschouwd als materiaal waarvan de vervoerder zich voor het vervoer bedient.
+
+5.	Dit artikel laat de artikelen 545 en 1006 onverlet.
 
 Artikel 107
 
@@ -518,11 +530,15 @@ Artikel 116
 
 Wordt de vervoerder, zijn wederpartij, de reiziger of een ondergeschikte van een dezer buiten overeenkomst aangesproken, dan zijn de artikelen 361 tot en met 366 en 1081 van overeenkomstige toepassing.
 
+Artikel 116a
+
+De beheerder van de spoorweginfrastructuur en een andere spoorwegonderneming die dezelfde spoorweginfrastructuur gebruikt, kunnen zich beroepen op de artikelen 365 en 366 op dezelfde voet als de daar bedoelde ondergeschikten dit kunnen.
+
 Afdeling 6. Overeenkomst van gecombineerd vervoer van personen
 
 Artikel 120
 
-De overeenkomst van gecombineerd vervoer van personen is de overeenkomst van personenvervoer, waarbij de vervoerder (gecombineerd vervoerder) zich bij een en dezelfde overeenkomst verbindt dat het vervoer deels over zee, over binnenwateren, over de weg, langs spoorstaven, door de lucht dan wel door middel van enige andere vervoerstechniek zal geschieden.
+De overeenkomst van gecombineerd vervoer van personen is de overeenkomst van personenvervoer, waarbij de vervoerder (gecombineerd vervoerder) zich bij een en dezelfde overeenkomst verbindt dat het vervoer deels over zee, over binnenwateren, over de weg, over spoorwegen, door de lucht dan wel door middel van enige andere vervoerstechniek zal geschieden.
 
 Artikel 121
 
@@ -3561,7 +3577,7 @@ Afdeling 2. Overeenkomst van goederenvervoer over de weg
 
 Artikel 1090
 
-De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt door middel van een voertuig zaken uitsluitend over de weg en anders dan langs spoorstaven te vervoeren.
+De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt door middel van een voertuig zaken uitsluitend over de weg en anders dan over spoorwegen te vervoeren.
 
 Artikel 1091
 
@@ -3599,7 +3615,7 @@ Artikel 1098
 
 1.	De vervoerder is niet aansprakelijk voor schade ontstaan door een beschadiging, voor zover deze is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder niet heeft kunnen vermijden en voor zover zulk een vervoerder de gevolgen daarvan niet heeft kunnen verhinderen.
 
-2.	De vervoerder kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de gebrekkigheid van het voertuig of van het materiaal waarvan hij zich bedient, tenzij dit laatste door de afzender, de geadresseerde of de ontvanger te zijner beschikking is gesteld. Onder materiaal wordt niet begrepen een schip, luchtvaartuig of spoorwagon, waarop het voertuig zich bevindt.
+2.	De vervoerder kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de gebrekkigheid van het voertuig of van het materiaal waarvan hij zich bedient, tenzij dit laatste door de afzender, de geadresseerde of de ontvanger te zijner beschikking is gesteld. Onder materiaal wordt niet begrepen een schip, luchtvaartuig of spoorvoertuig, waarop het voertuig zich bevindt.
 
 3.	Onder beschadiging worden mede verstaan geheel of gedeeltelijk verlies van zaken, vertraging, alsmede ieder ander schade veroorzakend feit.
 
@@ -3902,7 +3918,7 @@ Afdeling 3. Overeenkomst van personenvervoer over de weg
 
 Artikel 1140
 
-1.	De overeenkomst van personenvervoer in de zin van deze titel is de overeenkomst van personenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij verbindt aan boord van een voertuig een of meer personen (reizigers) en al dan niet hun bagage uitsluitend over de weg en anders dan langs spoorstaven te vervoeren.
+1.	De overeenkomst van personenvervoer in de zin van deze titel is de overeenkomst van personenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij verbindt aan boord van een voertuig een of meer personen (reizigers) en al dan niet hun bagage uitsluitend over de weg en anders dan over spoorwegen te vervoeren.
 
 2.	De overeenkomst van personenvervoer als omschreven in artikel 100 is niet een overeenkomst van personenvervoer in de zin van deze afdeling.
 
@@ -3948,7 +3964,7 @@ Artikel 1148
 
 1.	De vervoerder is niet aansprakelijk voor schade door dood of letsel van de reiziger veroorzaakt, voor zover het ongeval dat hiertoe leidde, is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder niet heeft kunnen vermijden en voor zover zulk een vervoerder de gevolgen daarvan niet heeft kunnen verhinderen.
 
-2.	Lichamelijke of geestelijke tekortkomingen van de bestuurder van het voertuig alsmede gebrekkigheid of slecht functioneren van het voertuig of van het materiaal, waarvan hij zich voor het vervoer bedient, worden aangemerkt als een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden en waarvan zulk een vervoerder de gevolgen heeft kunnen verhinderen. Onder materiaal wordt niet begrepen een schip, luchtvaartuig of spoorwagon, aan boord waarvan het voertuig zich bevindt.
+2.	Lichamelijke of geestelijke tekortkomingen van de bestuurder van het voertuig alsmede gebrekkigheid of slecht functioneren van het voertuig of van het materiaal, waarvan hij zich voor het vervoer bedient, worden aangemerkt als een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden en waarvan zulk een vervoerder de gevolgen heeft kunnen verhinderen. Onder materiaal wordt niet begrepen een schip, luchtvaartuig of spoorvoertuig, aan boord waarvan het voertuig zich bevindt.
 
 3.	Bij de toepassing van dit artikel wordt slechts dan rekening gehouden met een gedraging van een derde, indien geen andere omstandigheid, die mede tot het ongeval leidde, voor rekening van de vervoerder is.
 
@@ -4056,7 +4072,7 @@ Afdeling 4. Verhuisovereenkomst
 
 Artikel 1170
 
-1.	De verhuisovereenkomst in de zin van deze titel is de overeenkomst van goederenvervoer, waarbij de vervoerder (de verhuizer) zich tegenover de afzender (de opdrachtgever) verbindt verhuisgoederen te vervoeren, hetzij uitsluitend in een gebouw of woning, hetzij uitsluitend ten dele in een gebouw of woning en ten dele over de weg, hetzij uitsluitend over de weg. Vervoer langs spoorstaven wordt niet als vervoer over de weg beschouwd.
+1.	De verhuisovereenkomst in de zin van deze titel is de overeenkomst van goederenvervoer, waarbij de vervoerder (de verhuizer) zich tegenover de afzender (de opdrachtgever) verbindt verhuisgoederen te vervoeren, hetzij uitsluitend in een gebouw of woning, hetzij uitsluitend ten dele in een gebouw of woning en ten dele over de weg, hetzij uitsluitend over de weg. Vervoer over spoorwegen wordt niet als vervoer over de weg beschouwd.
 
 2.	Verhuisgoederen in de zin van deze titel zijn zaken die zich in een overdekte ruimte bevinden en die tot de stoffering, meubilering of inrichting van die ruimte bestemd zijn en als zodanig reeds zijn gebruikt met uitzondering van die zaken die volgens verkeersopvatting niet tot de gebruikelijke inhoud van die ruimte behoren.
 
@@ -4086,7 +4102,7 @@ Artikel 1175
 
 2.	De verhuizer kan niet om zich van zijn aansprakelijkheid uit hoofde van de artikelen 1173 of 1174 te ontheffen beroep doen op:
 	a.	de gebrekkigheid van het voertuig dat voor de verhuizing wordt gebezigd;
-	b.	de gebrekkigheid van het materiaal, waarvan hij zich bedient, tenzij dit door de opdrachtgever te zijner beschikking is gesteld; onder materiaal wordt niet begrepen een schip, luchtvaartuig of spoorwagon, waarop het voertuig, dat voor de verhuizing wordt gebezigd, zich bevindt;
+	b.	de gebrekkigheid van het materiaal, waarvan hij zich bedient, tenzij dit door de opdrachtgever te zijner beschikking is gesteld; onder materiaal wordt niet begrepen een schip, luchtvaartuig of spoorvoertuig, waarop het voertuig, dat voor de verhuizing wordt gebezigd, zich bevindt;
 	c.	de gebrekkigheid van steunpunten benut voor de bevestiging van hijswerktuigen;
 	d.	enig door toedoen van derden, wier handelingen niet voor rekening van de opdrachtgever komen, aan de verhuisgoederen overkomen ongeval.
 
@@ -4947,83 +4963,583 @@ Artikel 1420
 
 VI. Vervoer langs spoorstaven
 
+Titel 18. Overeenkomst van goederenvervoer over spoorwegen
+
+Afdeling 1. Algemene bepalingen
+
+Artikel 1550
+
+1.	De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt tot het vervoer van zaken uitsluitend over spoorwegen. Partijen kunnen bedingen dat de onderhavige titel van toepassing is op het vervoer over de weg of binnenwateren dat in aanvulling op het vervoer over spoorwegen plaats vindt.
+
+2.	Deze titel is niet van toepassing op overeenkomsten tot het vervoer van postzendingen door of in opdracht van de houder van een concessie, bedoeld in de Postwet of onder een internationale postovereenkomst.
+
+3.	Deze titel is niet van toepassing op overeenkomsten tot het vervoer van bagage.
+
+Artikel 1551
+
+Voor de toepassing van deze titel wordt verstaan onder:
+	a.	de vervoerder: de contractuele vervoerder met wie de afzender de vervoerovereenkomst heeft gesloten, of een opvolgende vervoerder, die op grond van de vervoerovereenkomst aansprakelijk is;
+	b.	ondervervoerder: een vervoerder die niet de vervoerovereenkomst heeft gesloten met de afzender, maar aan wie de onder a bedoelde vervoerder de uitvoering van het vervoer over spoorwegen, geheel of gedeeltelijk, heeft toevertrouwd;
+	c.	intermodale transporteenheid: containers, wissellaadbakken, opleggers of andere soortgelijke bij intermodaal vervoer gebruikte laadeenheden.
+	d.	VSG: Regeling vervoer over de spoorweg van gevaarlijke stoffen.
+
+Artikel 1552
+
+De wetsbepalingen omtrent huur, bewaarneming en bruikleen zijn niet van toepassing op terbeschikkingstelling van een spoorvoertuig ten einde door middel daarvan zaken te vervoeren in dier voege dat degene die het spoorvoertuig ter beschikking stelt, verplicht is voor de voortbeweging daarvan zorg te dragen.
+
+Artikel 1553
+
+Elk beding dat middellijk of onmiddellijk afwijkt van het in deze titel en in artikel 1727 bepaalde is nietig, tenzij de vervoerovereenkomst niet onder bezwarende titel is gesloten. De nietigheid van dergelijke bedingen heeft niet de nietigheid van de overige bedingen van de vervoerovereenkomst tot gevolg. Niettemin kan een vervoerder een zwaardere aansprakelijkheid en zwaardere verplichtingen op zich nemen dan uit deze titel voortvloeien.
+
+Afdeling 2. Sluiting en uitvoering van de vervoerovereenkomst
+
+Artikel 1554
+
+1.	Op grond van de vervoerovereenkomst is de vervoerder verplicht de zaken naar de plaats van bestemming te vervoeren en ze daar aan de geadresseerde af te leveren.
+
+2.	De vervoerovereenkomst moet worden vastgelegd in een vrachtbrief. Het ontbreken, de onregelmatigheid of het verlies van de vrachtbrief tast evenwel noch het bestaan, noch de geldigheid van de vervoerovereenkomst aan, die onderworpen blijft aan deze titel.
+
+3.	De vrachtbrief wordt door de afzender en de vervoerder ondertekend. De handtekening kan vervangen worden door een stempel of elke andere daartoe geëigende methode.
+
+4.	De vervoerder moet de aanneming ten vervoer op de vrachtbrief op de geëigende wijze bevestigen en de afzender het vrachtbriefduplicaat overhandigen.
+
+5.	De vrachtbrief heeft niet de betekenis van een cognossement.
+
+6.	Voor iedere zending moet een vrachtbrief worden opgemaakt. Behoudens indien anders is overeengekomen tussen de afzender en de vervoerder, kan een vrachtbrief slechts betrekking hebben op de lading van één spoorwagen.
+
+7.	De vrachtbrief, met inbegrip van de duplicaat-vrachtbrief, kan ook worden opgesteld in de vorm van elektronische registratie van gegevens, die kunnen worden omgezet in leesbare lettertekens. De voor de registratie en verwerking van de gegevens gebruikte procedures moeten uit functioneel oogpunt gelijkwaardig zijn, in het bijzonder wat betreft de bewijskracht van de vrachtbrief, die door deze elektronische gegevens wordt gevormd.
+
+Artikel 1555
+
+1.	De vrachtbrief moet de volgende aanduidingen bevatten:
+	a.	de plaats en datum van het opmaken ervan;
+	b.	de naam en het adres van de afzender;
+	c.	de naam en het adres van de vervoerder die de vervoerovereenkomst gesloten heeft;
+	d.	de naam en het adres van degene aan wie de zaken daadwerkelijk ten vervoer werden afgegeven, indien dit niet de in c vermelde vervoerder is;
+	e.	de plaats en datum waarop de zaken in ontvangst werden genomen;
+	f.	de plaats van de aflevering;
+	g.	de naam en het adres van de geadresseerde;
+	h.	de omschrijving van de aard der zaken en de verpakkingswijze, en voor gevaarlijke zaken hun omschrijving in de VSG voorgeschreven voor het internationale spoorwegvervoer van gevaarlijke zaken;
+	i.	het aantal colli en de voor identificatie van stukgoedzendingen vereiste bijzondere merktekens en nummers;
+	j.	het wagennummer, in geval van vervoer van volledige wagenlading;
+	k.	het nummer van het op eigen wielen rollend spoorvoertuig dat als te vervoeren zaak ten vervoer wordt aangeboden;
+	l.	bovendien, bij intermodale laadeenheden, de categorie, het nummer of de voor hun identificatie vereiste andere kenmerken;
+	m.	de brutomassa of de op andere wijze uitgedrukte hoeveelheid der zaken;
+	n.	een nauwkeurige lijst van de door overheidsinstanties voorgeschreven bescheiden die bij de vrachtbrief zijn gevoegd of ter beschikking van de vervoerder zijn gesteld bij een nader omschreven instantie of bij een in de overeenkomst vermelde instelling;
+	o.	de op het vervoer betrekking hebbende kosten (vrachtprijs, bijkomende kosten en andere kosten die vanaf het sluiten van de overeenkomst tot aan de aflevering ontstaan) voorzover zij door de geadresseerde moeten worden betaald of bij een andere aanduiding dat de kosten verschuldigd zijn door de geadresseerde.
+
+2.	In voorkomend geval moet de vrachtbrief bovendien de volgende aanduidingen bevatten:
+	a.	In geval van vervoer door opvolgende vervoerders: de tot aflevering der zaken verplichte vervoerder, voorzover die met zijn instemming is ingeschreven op de vrachtbrief;
+	b.	de kosten die de afzender voor zijn rekening neemt;
+	c.	het bedrag van het bij de aflevering van de zaken te innen rembours;
+	d.	de aangegeven waarde der zaken en het bedrag van het bijzonder belang bij de aflevering;
+	e.	de overeengekomen afleveringstermijn;
+	f.	de lijst van aan de vervoerder overhandigde bescheiden, niet opgesomd in lid 1, onder n;
+	g.	de vermeldingen door de afzender van het aantal en de beschrijving van de door hem op de wagen aangebrachte verzegelingen.
+
+3.	In de vrachtbrief kunnen de partijen bij de vervoerovereenkomst andere aanduidingen opnemen die zij nuttig achten.
+
+Artikel 1556
+
+1.	De afzender is aansprakelijk voor alle kosten en schade, die bij de vervoerder ontstaan ten gevolge van:
+	a.	aanduidingen door de afzender op de vrachtbrief die onnauwkeurig, onjuist of onvolledig zijn of die op een andere dan de voor hen voorgeschreven plaats vermeld werden of
+	b.	het verzuimen door de afzender om door de VSG voorgeschreven aanduidingen te vermelden.
+
+2.	Indien de vervoerder aanduidingen op de vrachtbrief vermeldt op verzoek van de afzender, wordt hij geacht te handelen in naam van de afzender, behoudens tegenbewijs.
+
+Artikel 1557
+
+Wanneer de afzender heeft verzuimd de door de VSG voorgeschreven aanduidingen te vermelden, kan de vervoerder op elk ogenblik, al naargelang de omstandigheden vereisen, de zaken uitladen, vernietigen of onschadelijk maken zonder dat dit aanleiding geeft tot enige schadeloosstelling, behalve indien hij bij de aanneming ten vervoer van de zaken kennis had van de gevaarlijke aard van de zaken.
+
+Artikel 1558
+
+1.	Behoudens andersluidend beding tussen de afzender en de vervoerder moeten de kosten (vrachtprijs, bijkomende kosten en andere kosten, die vanaf het sluiten van de overeenkomst tot de aflevering ontstaan) door de afzender worden betaald.
+
+2.	Wanneer, op grond van een beding tussen de afzender en de vervoerder, de kosten ten laste van de geadresseerde worden gelegd en wanneer de geadresseerde noch de vrachtbrief in ontvangst genomen heeft, noch zijn rechten uit de vervoerovereenkomst overeenkomstig artikel 1565 lid 3 heeft doen gelden, noch de vervoerovereenkomst overeenkomstig artikel 1566 heeft gewijzigd, blijven de kosten ten laste van de afzender.
+
+Artikel 1559
+
+1.	De vervoerder heeft steeds het recht te onderzoeken of de vervoervoorwaarden vervuld zijn en of de zending overeenstemt met de door de afzender op de vrachtbrief vermelde gegevens. Wanneer dit onderzoek betrekking heeft op de inhoud van de zending vindt het voorzover mogelijk plaats in aanwezigheid van de rechthebbende; in het geval dat dit niet mogelijk is, doet de vervoerder beroep op twee onafhankelijke getuigen.
+
+2.	Indien de zending niet overeenstemt met de aanduidingen op de vrachtbrief of indien de voorschriften met betrekking tot het voorwaardelijk ten vervoer toelaten van de zaken niet zijn nageleefd, moet het resultaat van het onderzoek vermeld worden op het blad van de vrachtbrief dat de zaken vergezelt, en eveneens op de duplicaat-vrachtbrief, indien de vervoerder daar nog over beschikt. In dat geval komen de kosten van het onderzoek ten laste van de zaak, tenzij deze onmiddellijk betaald worden.
+
+3.	Wanneer de afzender zorg draagt voor de belading, kan hij eisen dat de vervoerder de staat van de zaken en van hun verpakking onderzoekt, alsook de juistheid van de op de vrachtbrief vermelde aanduidingen over het aantal colli, hun merktekens en nummers alsmede de brutomassa of de op andere wijze uitgedrukte hoeveelheid. De vervoerder is daartoe slechts verplicht, wanneer hem de daarvoor geëigende middelen ter beschikking staan. De vervoerder kan de kosten van het onderzoek terugvorderen. Het resultaat van de onderzoekingen wordt op de vrachtbrief vermeld.
+
+Artikel 1560
+
+1.	De vrachtbrief levert volledig bewijs, behoudens tegenbewijs, van het sluiten en de inhoud van de vervoerovereenkomst, alsmede van het ten vervoer aannemen van de zaken door de vervoerder.
+
+2.	Wanneer de vervoerder zorg heeft gedragen voor de belading, levert de vrachtbrief volledig bewijs, behoudens tegenbewijs, van de staat der zaken en hun verpakking zoals vermeld op de vrachtbrief of bij ontstentenis daarvan het bewijs van hun uiterlijk goede staat bij het ten vervoer aannemen door de vervoerder en de juistheid van de vermeldingen op de vrachtbrief over het aantal der colli, hun merktekens en nummers alsmede de brutomassa of de op andere wijze uitgedrukte hoeveelheid.
+
+3.	Wanneer de afzender zorg heeft gedragen voor de belading, levert de vrachtbrief alleen volledig bewijs, behoudens tegenbewijs, van de staat der zaken en hun verpakking, zoals vermeld op de vrachtbrief en bij ontstentenis daarvan het bewijs van hun uiterlijk goede staat en de juistheid van de in lid 2 opgesomde vermeldingen, in het geval dat de vervoerder deze heeft onderzocht en het resultaat van zijn onderzoek op de vrachtbrief heeft genoteerd.
+
+4.	De vrachtbrief levert evenwel niet volledig bewijs op in het geval dat zij een met redenen omkleed voorbehoud bevat. Een voorbehoud kan met name gemotiveerd worden door het feit dat de vervoerder niet over geëigende middelen beschikte om te onderzoeken of de zending beantwoordt aan de gegevens op de vrachtbrief.
+
+Artikel 1561
+
+1.	Afzender en vervoerder komen onderling overeen wie van hen het laden en lossen der zaken moet uitvoeren. Bij gebreke van een dergelijk beding ligt voor het laden en lossen van stukgoed de verplichting bij de vervoerder, terwijl voor wagenladingen de verplichting voor het laden bij de afzender ligt en die voor het lossen na de aflevering bij de geadresseerde.
+
+2.	De afzender is aansprakelijk voor alle gevolgen van de gebrekkige belading die hij heeft uitgevoerd en hij moet met name de door dit feit door de vervoerder geleden schade vergoeden. Het bewijs van de gebrekkige belading rust op de vervoerder.
+
+Artikel 1562
+
+De afzender is jegens de vervoerder aansprakelijk voor alle schade en kosten veroorzaakt door het ontbreken of de gebrekkigheid van de verpakking, tenzij het gebrek uiterlijk zichtbaar was of de vervoerder er kennis van had bij het ten vervoer aannemen van de zaken en hij daarvoor geen voorbehoud maakte.
+
+Artikel 1563
+
+1.	Met het oog op het naleven van de vereiste douane- of andere voorschriften van overheidsinstanties moet de afzender voorafgaand aan de aflevering van de zaken bij de vrachtbrief de noodzakelijke bescheiden voegen of deze aan de vervoerder ter beschikking stellen en hem alle gewenste inlichtingen verschaffen.
+
+2.	De vervoerder is niet gehouden na te gaan of deze bescheiden en inlichtingen juist en volledig zijn. De afzender is jegens de vervoerder aansprakelijk voor alle schade ontstaan door het ontbreken, de onvolledigheid of de onregelmatigheid van de bescheiden en inlichtingen, behalve in geval van schuld van de vervoerder.
+
+3.	De vervoerder is aansprakelijk voor de gevolgen van het verlies of het onregelmatig gebruik van de op de vrachtbrief vermelde en bijgevoegde of hem overhandigde bescheiden, tenzij het verlies of de door het onregelmatig gebruik van deze bescheiden veroorzaakte schade het gevolg is van omstandigheden die de vervoerder niet kon vermijden of waarvan hij de gevolgen niet kon verhinderen. De eventuele schadevergoeding bedraagt evenwel niet meer dan die in geval van verlies van de zaken.
+
+4.	De afzender, door een vermelding op de vrachtbrief, of de geadresseerde, door een opdracht overeenkomstig artikel 1566 lid 3 kan vragen:
+	a.	dat bij het naleven van de vereiste douane- of andere overheidsvoorschriften hijzelf aanwezig is ofwel zich doet vertegenwoordigen door een gevolmachtigde om alle inlichtingen te verschaffen en de ter zake dienende opmerkingen te maken;
+	b.	dat hijzelf de vereiste douane- of andere overheidsvoorschriften naleeft of hen doet naleven door een gevolmachtigde;
+	c.	dat, wanneer hijzelf of zijn gevolmachtigde bij het naleven van de vereiste douane- of andere overheidsvoorschriften aanwezig is of deze laatste zelf naleeft, hij de douane- en andere kosten betaalt.
+
+In deze gevallen mogen noch de afzender, noch de geadresseerde die het recht heeft over de zaken te beschikken, of hun gevolmachtigde de zaken in bezit nemen.
+
+5.	Indien de afzender een plaats heeft aangewezen voor het naleven van de vereiste douane- of andere overheidsvoorschriften waar dat krachtens de geldende voorschriften niet mogelijk is of indien hij voor het naleven van deze voorschriften een andere, onuitvoerbare handelwijze heeft voorgeschreven, handelt de vervoerder op de volgens hem voor de rechthebbende voordeligste wijze en deelt hij de genomen maatregelen mee aan de afzender.
+
+6.	De vervoerder kan evenwel overeenkomstig de bepalingen van lid 5 handelen, indien de geadresseerde de vrachtbrief niet in ontvangst heeft genomen binnen de termijn die is voorgeschreven door de op de plaats van bestemming geldende voorschriften.
+
+7.	De afzender moet voldoen aan de overheidsvoorschriften voor wat betreft de verpakking en de afdekking van de zaken. Indien de afzender de zaken niet overeenkomstig deze voorschriften heeft verpakt of afgedekt, kan de vervoerder daarvoor zorgen; de daardoor ontstane kosten komen ten laste van de zaken.
+
+Artikel 1564
+
+1.	De afzender en de vervoerder komen de afleveringstermijn overeen. Bij gebreke van een beding hieromtrent kan de afleveringstermijn nochtans nooit langer zijn dan die welke volgt uit de leden 2 tot en met 4.
+
+2.	Behoudens de leden 3 en 4 belopen de maximum afleveringstermijnen:
+	*	termijn van verzenden 12 uren;
+	*	termijn van vervoeren 24 uren.
+
+3.	De vervoerder kan toeslagtermijnen van bepaalde duur vaststellen: bij buitengewone omstandigheden die een ongebruikelijke verkeerstoename of ongebruikelijke moeilijkheden voor de bedrijfsuitvoering tot gevolg hebben, dan wel bij ladingen die bestemd zijn voor stations die slechts eenmaal per dag of niet dagelijks worden bediend.
+
+De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwaarden.
+
+4.	De afleveringstermijn begint te lopen vanaf de aanneming ten vervoer van de zaken; hij wordt verlengd met de duur van een niet door de schuld van de vervoerder veroorzaakt oponthoud. De afleveringstermijn wordt geschorst op zaterdagen, zondagen en wettelijke feestdagen.
+
+Artikel 1565
+
+1.	De vervoerder moet de vrachtbrief afgeven en de zaken afleveren aan de geadresseerde op de voor de aflevering voorziene plaats tegen kwijting en betaling van de uit de vervoerovereenkomst voortvloeiende vorderingen.
+
+2.	Met de aflevering aan de geadresseerde worden, wanneer zulks overeenkomstig de op de plaats van bestemming geldende voorschriften geschiedt, gelijkgesteld:
+	a.	de afgifte van de zaken aan de douane of belastingsinstanties in hun expeditie- of opslagruimten, wanneer die zich niet onder de hoede van de vervoerder bevinden;
+	b.	de opslag van de zaken bij de vervoerder of de inbewaringgeving ervan bij een expediteur of in een openbare douane-entrepot.
+
+3.	Na de aankomst van de zaken op de plaats van aflevering kan de geadresseerde aan de vervoerder verzoeken hem de vrachtbrief te overhandigen en aan hem de zaken af te leveren. Indien het verlies van de zaken is vastgesteld of indien de zaken niet binnen de in artikel 1577 bedoelde termijn aangekomen zijn, kan de geadresseerde in eigen naam zijn rechten uit de vervoerovereenkomst jegens de vervoerder doen gelden.
+
+4.	De rechthebbende kan de ontvangst van de zaken weigeren, zelfs na de inontvangstname van de vrachtbrief en het betalen van vorderingen voortvloeiend uit de vervoerovereenkomst, zolang niet is overgegaan tot de onderzoeken waar hij om heeft verzocht met het oog op het vaststellen van de beweerde schade.
+
+5.	Overigens vindt de aflevering van de zaken plaats overeenkomstig de op de plaats van aflevering geldende voorschriften.
+
+6.	Indien de zaken aan de geadresseerde zijn afgeleverd zonder voorafgaande inning van het rembours dat rust op de zaken, is de vervoerder gehouden de afzender de schade te vergoeden tot ten hoogste het bedrag van het rembours, onverminderd zijn regres op de geadresseerde.
+
+Artikel 1566
+
+1.	De afzender heeft het recht om over de zaken te beschikken en de vervoerovereenkomst door nadere opdrachten te wijzigen. Met name kan hij vragen aan de vervoerder
+	a.	de zaken niet verder te vervoeren;
+	b.	de aflevering uit te stellen;
+	c.	de zaken aan een andere dan de op de vrachtbrief vermelde geadresseerde af te leveren;
+	d.	de zaken op een andere dan de op de vrachtbrief vermelde plaats af te leveren.
+
+2.	Het recht van de afzender tot het wijzigen van de vervoerovereenkomst vervalt, zelfs wanneer hij de duplicaat-vrachtbrief in zijn bezit heeft, in de gevallen waarin de geadresseerde
+	a.	de vrachtbrief in ontvangst genomen heeft;
+	b.	de zaken aangenomen heeft;
+	c.	zijn rechten overeenkomstig artikel 1565 lid 3 heeft doen gelden;
+	d.	overeenkomstig lid 3 bevoegd is nadere opdrachten te geven; vanaf dat ogenblik moet de vervoerder de nadere opdrachten en aanwijzingen van de geadresseerde opvolgen.
+
+3.	Het recht tot het wijzigen van de vervoerovereenkomst komt aan de geadresseerde toe vanaf het ogenblik dat de vrachtbrief opgemaakt wordt, tenzij door de afzender anders aangegeven is op de vrachtbrief.
+
+4.	Het recht van de geadresseerde tot het wijzigen van de vervoerovereenkomst vervalt wanneer hij:
+	a.	de vrachtbrief in ontvangst heeft genomen;
+	b.	de zaken heeft aangenomen;
+	c.	zijn rechten overeenkomstig artikel 1565 lid 3 heeft doen gelden;
+	d.	overeenkomstig lid 5 voorgeschreven heeft de zaken af te leveren aan een derde, en wanneer deze zijn rechten overeenkomstig artikel 1565 lid 3 heeft doen gelden.
+
+5.	Indien de geadresseerde heeft voorgeschreven de zaken aan een derde af te leveren, is deze laatste niet bevoegd om de vervoerovereenkomst te wijzigen.
+
+Artikel 1567
+
+1.	Wanneer de afzender of in geval van artikel 1566 lid 3 de geadresseerde de vervoerovereenkomst wil wijzigen door latere opdrachten, moet hij de vervoerder de duplicaat-vrachtbrief aanbieden waarop de wijzigingen aangebracht moeten zijn.
+
+2.	De afzender of in geval van artikel 1566 lid 3 de geadresseerde moet de vervoerder alle kosten en de schade vergoeden die voortvloeien uit het uitvoeren van de latere wijzigingen.
+
+3.	Het uitvoeren van latere wijzigingen moet mogelijk, geoorloofd en redelijk zijn op het ogenblik waarop de opdrachten aan degene die deze moet uitvoeren, bereiken en mag met name noch de gebruikelijke bedrijfsuitoefening van de vervoeronderneming belemmeren, noch de afzenders en geadresseerden van andere zendingen benadelen.
+
+4.	De latere wijzigingen mogen niet een splitsing van de zending tot gevolg hebben.
+
+5.	Wanneer de vervoerder, rekening houdend met de bepalingen genoemd in lid 3, de ontvangen instructies niet kan uitvoeren, moet hij onmiddellijk diegene die om de wijzigingen verzoekt, daarvan in kennis stellen.
+
+6.	In geval van schuld van de vervoerder is hij aansprakelijk voor de gevolgen van het niet of gebrekkig uitvoeren van een latere wijziging. De eventuele schadevergoeding bedraagt evenwel niet meer dan die in geval van verlies van de zaken.
+
+7.	De vervoerder die gevolg geeft aan latere wijzigingen van de afzender zonder het overleggen van de duplicaat-vrachtbrief te eisen, is jegens de geadresseerde aansprakelijk voor de daaruit voortvloeiende schade, indien de duplicaat-vrachtbrief aan deze laatste is overhandigd. De eventuele schadevergoeding bedraagt evenwel niet meer dan die in geval van verlies van de zaken.
+
+Artikel 1568
+
+1.	In geval van een belemmering in het vervoer beslist de vervoerder of het de voorkeur verdient de zaken verder te vervoeren dan wel of het in het belang is van de beschikkingsgerechtigde hem om instructies te verzoeken, waarbij hij aan hem alle nuttige inlichtingen waarover hij beschikt, meedeelt.
+
+2.	Indien een verder vervoer niet mogelijk is, verzoekt de vervoerder de beschikkingsgerechtigde om instructies. Indien de vervoerder deze instructies niet tijdig kan verkrijgen, moet hij die maatregelen treffen welke hem het voordeligst lijken voor de belangen van beschikkingsgerechtigde.
+
+Artikel 1569
+
+1.	In geval van een belemmering in de aflevering moet de vervoerder de afzender daarvan onverwijld op de hoogte stellen en moet hij hem om instructies verzoeken, tenzij de afzender door een vermelding op de vrachtbrief gevraagd heeft om in geval van een belemmering in de aflevering de zaken terug te zenden.
+
+2.	Wanneer de belemmering in de aflevering wegvalt, voordat instructies van de afzender de vervoerder bereiken, worden de zaken afgeleverd bij de geadresseerde. De afzender moet daarvan onverwijld in kennis worden gesteld.
+
+3.	In geval de geadresseerde weigert de zaken in ontvangst te nemen, is de afzender gerechtigd tot het geven van instructies, zelfs indien hij de duplicaat-vrachtbrief niet kan overleggen.
+
+4.	Wanneer de belemmering in de aflevering optreedt, nadat de geadresseerde de vervoerovereenkomst overeenkomstig artikel 1566 leden 3 en 5 gewijzigd heeft, moet de vervoerder deze geadresseerde inlichten.
+
+Artikel 1570
+
+1.	De vervoerder heeft recht op vergoeding van de kosten veroorzaakt door:
+	a.	het inwinnen van instructies,
+	b.	het uitvoeren van de ontvangen instructie,
+	c.	het niet of niet tijdig ontvangen van door hem verzochte instructie,
+	d.	het nemen van een beslissing overeenkomstig artikel 1568 lid 1, zonder instructies gevraagd te hebben,
+
+tenzij deze kosten door zijn schuld veroorzaakt zijn. Hij kan met name de vrachtprijs voor het werkelijk gereden vervoertraject in rekening brengen en aanspraak maken op de daarmee overeenstemmende afleveringstermijn.
+
+2.	In de gevallen bedoeld in artikel 1568 lid 2 en in artikel 1569 lid 1 kan de vervoerder de zaken onmiddellijk en op kosten van de rechthebbende lossen. Na het lossen wordt het vervoer geacht beëindigd te zijn. De vervoerder bewaart vervolgens de zaken voor rekening van de rechthebbende. Hij kan de zaken evenwel toevertrouwen aan een derde en is dan slechts aansprakelijk voor de oordeelkundige keuze van die derde. De zaken blijven belast met de uit de vervoerovereenkomst voortvloeiende schuldvorderingen en alle andere kosten.
+
+3.	In geval van toepassing van lid 2 is artikel 1133 van overeenkomstige toepassing.
+
+4.	Indien in geval van belemmeringen in het vervoer of in de aflevering de afzender binnen redelijke tijd geen instructies meedeelt en de belemmering in het vervoer of in de aflevering niet opgelost kan worden overeenkomstig de bepalingen van de leden 2 en 3, kan de vervoerder de zaken op kosten van de afzender terugzenden of, indien zulks gerechtvaardigd is, vernietigen.
+
+Afdeling 3. Aansprakelijkheid
+
+Artikel 1571
+
+1.	De vervoerder is aansprakelijk voor de schade ten gevolge van geheel of gedeeltelijk verlies of beschadiging van de zaken vanaf de aanneming ten vervoer tot aan de aflevering, alsmede ten gevolge van de vertraging in de aflevering.
+
+2.	De vervoerder is van deze aansprakelijkheid ontheven voorzover het verlies, de beschadiging of de vertraging in de aflevering is veroorzaakt door schuld van de rechthebbende, door een opdracht van de rechthebbende die niet het gevolg is van de schuld van de vervoerder, door eigen gebrek van de zaak (inwendig bederf, gewichtsverlies, enz.) of door omstandigheden die de vervoerder niet kon vermijden en waarvan hij de gevolgen niet kon verhinderen. Gebrekkigheid of slecht functioneren van het materiaal waarvan de vervoerder zich bedient, daaronder begrepen de spoorweginfrastructuur, wordt niet beschouwd als een omstandigheid die de vervoerder niet kon vermijden en waarvan hij de gevolgen niet kon verhinderen.
+
+3.	De vervoerder is van deze aansprakelijkheid ontheven, voorzover het verlies of de beschadiging een gevolg is van de bijzondere risico's, verbonden aan een of meer van de volgende feiten:
+	a.	het vervoer in open wagens, verricht krachtens een beding dat is opgenomen in op de vervoerovereenkomst toepasselijke algemene vervoervoorwaarden en uitdrukkelijk is overeengekomen en vermeld op de vrachtbrief; behalve voor de schade veroorzaakt door weersomstandigheden aan de zaken, worden de zaken geladen in intermodale transporteenheden en in gesloten wegvoertuigen die op spoorwagens vervoerd worden, niet beschouwd als vervoerd in open wagen; indien de afzender dekkleden voor het vervoer van zaken in open wagens gebruikt, heeft de vervoerder dezelfde aansprakelijkheid als die bij het vervoer in open wagens zonder dekkleden, zelfs als het zaken betreft die volgens de Algemene vervoervoorwaarden niet in open wagens worden vervoerd;
+	b.	het ontbreken of de gebrekkigheid van de verpakking bij zaken die door hun aard onderhevig zijn aan verliezen of beschadigingen, wanneer ze niet of gebrekkig zijn verpakt;
+	c.	het laden van de zaken door de afzender of het lossen door de geadresseerde;
+	d.	de aard van bepaalde zaken die door met deze aard zelf samenhangende oorzaken zijn blootgesteld aan geheel of gedeeltelijk verlies of aan beschadiging zoals in het bijzonder breuk, roest, inwendig en spontaan bederf, uitdroging, vermindering in massa;
+	e.	de onjuiste, onnauwkeurige of onvolledige aanduiding of nummering van de colli;
+	f.	het vervoer van levende dieren;
+	g.	vervoer dat krachtens de toepasselijke bepalingen of op de vrachtbrief vermelde bedingen tussen de afzender en de vervoerder uitgevoerd moet worden onder begeleiding, indien het verlies of de beschadiging het gevolg is van een gevaar dat de begeleiding had moeten vermijden.
+
+Artikel 1572
+
+1.	In geval van een vervoer van op eigen wielen rollende spoorvoertuigen die als te vervoeren zaak ten vervoer worden aangeboden, is de vervoerder aansprakelijk voor de schade ten gevolge van het verlies of beschadiging van de spoorvoertuigen en de bestanddelen daarvan vanaf de aanneming ten vervoer tot de aflevering alsmede voor de schade ten gevolge van de overschrijding van afleveringstermijn, tenzij hij bewijst dat de schade niet door zijn schuld veroorzaakt is.
+
+2.	De vervoerder is niet aansprakelijk voor schade die het gevolg is van het verlies van de losse bestanddelen waarvan geen melding wordt gemaakt op beide zijden van het voertuig of die niet opgenomen zijn in de inventaris die het voertuig begeleidt.
+
+Artikel 1573
+
+1.	Het bewijs dat het verlies, de beschadiging of de vertraging in de aflevering door een van de in artikel 1571 lid 2 genoemde feiten is veroorzaakt, rust op de vervoerder.
+
+2.	Wanneer de vervoerder bewijst dat het verlies of de beschadiging, gelet op de omstandigheden van het geval, kan zijn ontstaan uit een of meer van de in artikel 1571 lid 3 genoemde bijzondere risico's, wordt vermoed dat het verlies of de beschadiging daardoor is veroorzaakt. De rechthebbende heeft evenwel het recht te bewijzen dat de schade geheel of gedeeltelijk niet door een van deze risico's is veroorzaakt.
+
+3.	Het vermoeden volgens lid 2 is niet van toepassing in het geval bedoeld in artikel 1571 lid 3, onder a, indien het een ongewoon groot verlies of een verlies van colli betreft.
+
+Artikel 1574
+
+Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereenkomst, door meer opvolgende vervoerders wordt verricht, treedt iedere vervoerder door het overnemen van de zaken met de vrachtbrief toe tot de vervoerovereenkomst overeenkomstig de bepalingen van de vrachtbrief en neemt hij de daaruit voortvloeiende verplichtingen op zich. In dit geval is iedere vervoerder aansprakelijk voor de uitvoering van het vervoer op het gehele vervoertraject tot aan de aflevering.
+
+Artikel 1575
+
+1.	Wanneer de vervoerder de uitvoering van het vervoer geheel of gedeeltelijk heeft toevertrouwd aan een ondervervoerder, al dan niet op grond van een aan hem in de vervoerovereenkomst toegekende bevoegdheid, blijft de vervoerder niettemin aansprakelijk voor het volledige vervoer.
+
+2.	Alle bepalingen van deze titel die betrekking hebben op de aansprakelijkheid van de vervoerder zijn ook van toepassing op de aansprakelijkheid van de ondervervoerder met betrekking tot het door hem verrichte vervoer. Wanneer een vordering wordt ingesteld tegen zijn ondergeschikten en andere personen van wier diensten de ondervervoerder gebruik maakt bij de uitvoering van het vervoer, zijn de artikelen 1584 en 1587 van toepassing.
+
+3.	Een bijzondere overeenkomst waarin de vervoerder verplichtingen op zich neemt die niet op hem rusten krachtens deze titel, of waarin hij afziet van rechten die hem ingevolge deze titel zijn toegekend, is niet bindend voor de ondervervoerder die hiermee niet uitdrukkelijk en schriftelijk heeft ingestemd. Ongeacht of de ondervervoerder deze overeenkomst al dan niet heeft aanvaard, blijft de vervoerder niettemin gebonden aan de uit deze bijzondere overeenkomst voortvloeiende verplichtingen of afstand van rechten.
+
+4.	Wanneer en voorzover de vervoerder en de ondervervoerder aansprakelijk zijn, zijn zij hoofdelijk aansprakelijk.
+
+5.	Het totale bedrag van de schadevergoeding verschuldigd door de vervoerder, de ondervervoerder alsmede door hun ondergeschikten en andere personen van wier diensten zij gebruik maken voor de uitvoering van het vervoer is niet hoger dan de in deze titel voorgeschreven maximumbedragen.
+
+6.	Dit artikel doet geen afbreuk aan de mogelijke regresrechten tussen de vervoerder en de ondervervoerder.
+
+Artikel 1576
+
+Wanneer een zending, die overeenkomstig deze titel verzonden is, eveneens overeenkomstig deze titel is doorgezonden en wanneer na deze doorzending een gedeeltelijk verlies of een schade is vastgesteld, wordt vermoed dat het gedeeltelijk verlies of de schade is ontstaan tijdens de laatste vervoerovereenkomst, indien de zending onder de hoede van de vervoerder is gebleven en is doorgezonden in dezelfde toestand waarin zij op de plaats van doorzending is aangekomen.
+
+Artikel 1577
+
+1.	De rechthebbende kan zonder nader bewijs de zaken als verloren beschouwen, wanneer zij niet binnen 30 dagen na afloop van de afleveringstermijn aan de geadresseerde zijn afgeleverd of te zijner beschikking zijn gesteld.
+
+2.	De rechthebbende kan bij het ontvangen van de schadevergoeding voor de verloren zaken schriftelijk verzoeken er onverwijld in kennis van te worden gesteld in geval de zaken zijn teruggevonden binnen een jaar na de betaling van de schadevergoeding. De vervoerder bevestigt dit verzoek schriftelijk.
+
+3.	Binnen dertig dagen na ontvangst van de in lid 2 bedoelde kennisgeving kan de rechthebbende verzoeken dat de zaken aan hem worden afgeleverd tegen betaling van de schuldvorderingen die uit de vrachtbrief voortvloeien en tegen terugbetaling van de ontvangen schadevergoeding, onder aftrek, in voorkomend geval, van de kosten die in deze schadevergoeding begrepen zouden zijn geweest. Hij behoudt niettemin zijn in artikelen 1581 en 1583 bedoelde rechten op schadevergoeding voor overschrijding van de afleveringstermijn.
+
+4.	Bij gebreke van een in lid 2 bedoeld verzoek of van binnen de in lid 3 bedoelde termijn gegeven instructies, of indien de zaken meer dan een jaar na de betaling van de schadevergoeding teruggevonden zijn, beschikt de vervoerder daarover overeenkomstig de wetten en voorschriften die gelden op de plaats waar de zaken zich bevinden.
+
+Artikel 1578
+
+1.	In geval van geheel of gedeeltelijk verlies van de zaken moet de vervoerder, met uitsluiting van elke andere schadevergoeding, een schadevergoeding betalen berekend volgens de beursprijs, bij gebreke daarvan volgens de marktprijs en, bij gebreke van beide, volgens de gebruikelijke waarde van zaken van dezelfde aard en kwaliteit op de dag en de plaats waar de zaken in ontvangst zijn genomen.
+
+2.	De schadevergoeding bedraagt niet meer dan 17 rekeneenheden per ontbrekend kilogram brutomassa. De rekeneenheid is het bijzondere trekkingsrecht zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen genoemd in het eerste lid worden omgerekend in Nederlands geld naar de koers van de dag, waarop de betaling wordt verricht. De waarde van het Nederlandse geld, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.
+
+3.	In geval van verlies van een op eigen wielen rollend spoorvoertuig dat als te vervoeren zaak ten vervoer is aangeboden of van verlies van een intermodale transporteenheid of van hun bestanddelen, is de schadevergoeding, met uitsluiting van elke andere schadevergoeding, beperkt tot de gebruikelijke waarde van het spoorvoertuig of de intermodale transporteenheid of hun bestanddelen op de dag en de plaats van het verlies. Indien het niet mogelijk is de dag of de plaats van het verlies vast te stellen, is de schadevergoeding beperkt tot de gebruikelijke waarde op de dag en de plaats van de inontvangstneming.
+
+4.	De vervoerder moet bovendien de vrachtprijs en de overige ter zake van het vervoer van de verloren zaken betaalde bedragen terugbetalen, met uitzondering van de accijnzen op zaken die vervoerd worden onder opschorting van die accijnzen.
+
+Artikel 1579
+
+1.	Met betrekking tot zaken, die ingevolge hun aard in het algemeen een gewichtsverlies ondergaan tijdens het vervoer, is de vervoerder, ongeacht de lengte van het afgelegde traject, slechts aansprakelijk voor het gedeelte van het verlies dat meer bedraagt dan:
+	a.	twee procent van de massa voor vloeibare of in vochtige toestand aangeboden zaken;
+	b.	één procent van de massa voor droge zaken.
+
+2.	Op de in lid 1 bedoelde beperking van de aansprakelijkheid kan geen beroep worden gedaan, indien wordt bewezen, dat het verlies, gelet op de omstandigheden van het geval, geen gevolg is van oorzaken, die de afwijking rechtvaardigen.
+
+3.	In het geval dat meer colli met één enkele vrachtbrief zijn vervoerd, wordt het gewichtsverlies berekend voor iedere collo, wanneer de massa ervan bij vertrek afzonderlijk op de vrachtbrief is vermeld of op andere wijze kan worden vastgesteld.
+
+4.	In geval van geheel verlies van de zaak of in geval van verlies van colli vindt voor de berekening van de schadevergoeding geen aftrek plaats wegens gewichtsverlies tijdens het vervoer.
+
+5.	Dit artikel laat de artikelen 1571 en 1573 onverlet.
+
+Artikel 1580
+
+1.	In geval van beschadiging van de zaken moet de vervoerder, met uitsluiting van elke andere schadevergoeding, een schadevergoeding betalen gelijk aan de waardevermindering van de zaken. Dit bedrag wordt berekend door op de overeenkomstig artikel 1578 bepaalde waarde van de zaken het op de plaats van bestemming vastgestelde percentage van de waardevermindering toe te passen.
+
+2.	De schadevergoeding bedraagt niet meer dan:
+	a.	indien de gehele zending door de beschadiging in waarde is verminderd, het in geval van geheel verlies te betalen bedrag;
+	b.	indien slechts een gedeelte van de zending door de beschadiging in waarde is verminderd, het in geval van verlies van het in waarde verminderde gedeelte te betalen bedrag.
+
+3.	In geval van beschadiging van een op eigen wielen rollend spoorvoertuig dat als te vervoeren zaak ten vervoer is aangeboden of van beschadiging van een intermodale transporteenheid of van hun bestanddelen wordt de aansprakelijkheid beperkt tot de herstelkosten, met uitsluiting van elke andere schadevergoeding. De schadevergoeding bedraagt niet meer dan het in geval van verlies te betalen bedrag.
+
+4.	De vervoerder moet bovendien de in artikel 1578 lid 4 vermelde kosten in de in lid 1 bepaalde verhouding terugbetalen.
+
+Artikel 1581
+
+1.	Indien een schade, met inbegrip van een beschadiging, voortvloeit uit het overschrijden van de afleveringstermijn, moet de vervoerder een schadevergoeding betalen die niet meer bedraagt dan het viervoud van de vrachtprijs.
+
+2.	In geval van geheel verlies van de zaken komt de in lid 1 bedoelde schadevergoeding niet bovenop die bedoeld in artikel 1578.
+
+3.	In geval van gedeeltelijk verlies van de zaken bedraagt de in lid 1 bepaalde schadevergoeding niet meer dan het viervoud van de vrachtprijs van het niet verloren gedeelte van de zending.
+
+4.	In geval van beschadiging van zaken die niet het gevolg is van de overschrijding van de afleveringstermijn komt, in voorkomend geval, de in lid 1 bedoelde schadevergoeding bovenop die bedoeld in artikel 1580.
+
+5.	In geen geval kan de som van de in lid 1 bedoelde schadevergoeding en die van de artikelen 1578 en 1580 hoger zijn dan de schadevergoeding die verschuldigd is in geval van geheel verlies van de zaken.
+
+6.	Wanneer de afleveringstermijn overeenkomstig artikel 1564 lid 1 is vastgesteld bij overeenkomst, kan daarin in een van lid 1 afwijkende regeling tot schadevergoeding voorzien worden. Indien in dit geval de in artikel 1564 leden 2 tot en met 4 bedoelde afleveringstermijnen overschreden worden, kan de rechthebbende hetzij de schadevergoeding uit de bovenvermelde overeenkomst verlangen, hetzij de schadevergoeding die in de leden 1 tot en met 5 is voorzien.
+
+Artikel 1582
+
+De afzender en de vervoerder kunnen overeenkomen dat de afzender in de vrachtbrief een waarde der zaken opneemt die het in artikel 1578 lid 2 voorgeschreven maximumbedrag overschrijdt. In dat geval treedt het aangegeven bedrag in de plaats van dit maximumbedrag.
+
+Artikel 1583
+
+De afzender en de vervoerder kunnen overeenkomen dat de afzender een bijzonder belang bij de aflevering aangeeft door op de vrachtbrief een bedrag in cijfers te vermelden voor het geval van verlies of beschadiging en het geval van overschrijding van de afleveringstermijn. In geval van aangifte van een belang bij de aflevering kan boven op de in de artikelen 1578, 1580 en 1581 bedoelde schadevergoedingen de vergoeding van de overige bewezen schade verlangd worden tot ten hoogste het bedrag van het aangegeven belang.
+
+Artikel 1584
+
+De in de artikelen 1563 lid 3, 1567 leden 6 en 7, 1578, 1580 tot en met 1583 bedoelde beperkingen van aansprakelijkheid zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
+
+Artikel 1585
+
+Indien de rechthebbende niet binnen een hem gestelde redelijke termijn de voor de definitieve regeling van de vordering nodige bewijsstukken aan de vervoerder overlegt, loopt de rente over de schadevergoeding niet tussen de afloop van deze termijn en de daadwerkelijke overlegging van de stukken.
+
+Artikel 1586
+
+De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen van wier diensten hij gebruik maakt bij de uitvoering van het vervoer, wanneer deze ondergeschikten of andere personen handelen in de uitoefening van hun werkzaamheden. De beheerders van de spoorweginfrastructuur waarop het vervoer wordt verricht, worden beschouwd als personen van wier diensten de vervoerder gebruik maakt bij de uitvoering van het vervoer.
+
+Artikel 1587
+
+1.	In alle gevallen waar deze titel van toepassing is, kan tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze titel.
+
+2.	Hetzelfde geldt voor een vordering ingesteld tegen de ondergeschikten en de andere personen voor wie de vervoerder krachtens artikel 1586 aansprakelijk is.
+
+Afdeling 4. Uitoefening van rechten
+
+Artikel 1588
+
+1.	Wanneer een gedeeltelijk verlies of een beschadiging door de vervoerder wordt ontdekt of vermoed of door de rechthebbende wordt beweerd, moet de vervoerder onverwijld en zo mogelijk in aanwezigheid van de rechthebbende een proces-verbaal opmaken dat naargelang de aard van de schade, de toestand van de zaken en zo mogelijk de omvang, de oorzaak en het tijdstip van ontstaan van de schade vermeldt.
+
+2.	Een afschrift van dit proces-verbaal moet kosteloos aan de rechthebbende worden verstrekt.
+
+3.	Wanneer de rechthebbende niet met de vermeldingen in het proces-verbaal instemt, is artikel 1135 van overeenkomstige toepassing.
+
+Artikel 1589
+
+1.	Vorderingen buiten rechte met betrekking tot de vervoerovereenkomst moeten schriftelijk worden ingediend bij de vervoerder tegen wie de rechtsvordering kan worden ingesteld.
+
+2.	Vorderingen buiten rechte kunnen ingediend worden door de personen die gerechtigd zijn rechtsvorderingen in te stellen tegen de vervoerder.
+
+3.	De afzender die een vordering buiten rechte indient, moet de duplicaat-vrachtbrief overleggen. Bij gebreke daarvan moet hij de machtiging van de geadresseerde overleggen of bewijzen dat deze laatste de zaken heeft geweigerd.
+
+4.	De geadresseerde die een vordering buiten rechte indient, moet de vrachtbrief overleggen, indien deze aan hem is afgegeven.
+
+5.	De vrachtbrief, de duplicaat-vrachtbrief en de overige bescheiden die de rechthebbende bij zijn vordering buiten rechte wil voegen, moeten worden overgelegd in origineel of in voorkomend geval op verzoek van de vervoerder, in een naar behoren gewaarmerkt afschrift.
+
+6.	Bij de regeling van de vordering buiten rechte kan de vervoerder de overlegging van het origineel van de vrachtbrief, de duplicaat-vrachtbrief of het remboursbewijs verlangen om er de regeling op te vermelden.
+
+Artikel 1590
+
+1.	Behoudens de leden 3 en 4, zijn tot het instellen van de op de vervoerovereenkomst gegronde rechtsvorderingen gerechtigd:
+	a.	de afzender tot het tijdstip waarop de geadresseerde
+		i.	de vrachtbrief in ontvangst heeft genomen,
+		ii.	de zaken heeft aangenomen of
+		iii.	de hem krachtens artikel 1565 lid 3 of artikel 1566 lid 3 toekomende rechten heeft doen gelden;
+	b.	de geadresseerde vanaf het tijdstip waarop hij
+		i.	de vrachtbrief in ontvangst heeft genomen,
+		ii.	de zaken heeft aangenomen of
+		iii.	de hem krachtens artikel 1565 lid 3 of artikel 1566 lid 3 toekomende rechten heeft doen gelden.
+
+2.	Het recht van de geadresseerde om een rechtsvordering in te stellen, vervalt zodra de door hem overeenkomstig artikel 1566 lid 5 aangewezen persoon de vrachtbrief in ontvangst heeft genomen, de zaken heeft aangenomen of de hem krachtens artikel 1565 lid 3 toekomende rechten heeft doen gelden.
+
+3.	De rechtsvordering tot terugbetaling van een bedrag dat op grond van de vervoerovereenkomst betaald is, komt slechts toe aan degene die de betaling heeft gedaan.
+
+4.	De rechtsvordering met betrekking tot rembours komt slechts toe aan de afzender.
+
+5.	Om rechtsvorderingen in te stellen moet de afzender de duplicaat-vrachtbrief overleggen. Bij gebreke daarvan moet hij een machtiging van de geadresseerde overleggen of bewijzen dat deze laatste de zaken heeft geweigerd. Indien nodig moet de afzender het bewijs leveren van het ontbreken of het verlies van de vrachtbrief.
+
+6.	Om rechtsvorderingen in te stellen moet de geadresseerde de vrachtbrief overleggen, indien deze aan hem is afgegeven.
+
+Artikel 1591
+
+1.	Behoudens de leden 3 en 4, kunnen de op de vervoerovereenkomst gegronde rechtsvorderingen uitsluitend worden ingesteld tegen de eerste of laatste vervoerder of tegen de vervoerder die dat deel van het vervoer verrichtte gedurende welke het feit dat tot de rechtsvordering heeft geleid, zich heeft voorgedaan.
+
+2.	Wanneer in geval het vervoer wordt verricht door opvolgende vervoerders, de vervoerder die de zaken moet afleveren met zijn instemming is ingeschreven op de vrachtbrief, kan overeenkomstig lid 1 de rechtsvordering tegen hem worden ingesteld, zelfs als hij de zaken of de vrachtbrief niet heeft ontvangen.
+
+3.	De rechtsvordering tot terugbetaling van een krachtens de vervoerovereenkomst betaald bedrag kan worden ingesteld tegen de vervoerder die dit bedrag heeft geïnd of tegen degene ten voordele van wie dit bedrag is geïnd.
+
+4.	De rechtsvordering ter zake van rembours kan alleen worden ingesteld tegen de vervoerder die de zaken op de plaats van afzending ten vervoer heeft aangenomen.
+
+5.	De rechtsvordering kan tegen een andere dan de in de leden 1 en 4 bedoelde vervoerders worden ingesteld als tegeneis of als verweer in een geding over een op dezelfde vervoerovereenkomst gegronde vordering.
+
+6.	Voorzover deze titel van toepassing is op de ondervervoerder, kan tegen hem eveneens een rechtsvordering worden ingesteld.
+
+7.	Indien de eiser de keuze heeft tussen meer vervoerders, vervalt zijn keuzerecht zodra de rechtsvordering tegen een van hen is ingesteld; dit geldt eveneens indien de eiser de keuze heeft tussen een of meer vervoerders en een ondervervoerder.
+
+Artikel 1592
+
+1.	Door de inontvangstneming van de zaken door de rechthebbende wordt deze vermoed de zaken in goede staat en op tijd te hebben ontvangen.
+
+2.	Dit vermoeden kan slechts worden weerlegd:
+	a.	in geval van gedeeltelijk verlies of beschadiging, indien
+		i.	het verlies of de beschadiging overeenkomstig artikel 1588 is vastgesteld vóór de inontvangstneming van de zaken door de rechthebbende;
+		ii.	de vaststelling, die overeenkomstig artikel 1588 had moeten geschieden, slechts door de schuld van de vervoerder achterwege is gebleven;
+	b.	in geval van uiterlijk niet waarneembare schade, die is vastgesteld na de inontvangstneming van de zaken door de rechthebbende, indien deze
+		i.	de vaststelling overeenkomstig artikel 1588 onmiddellijk na de ontdekking van de schade en uiterlijk binnen zeven dagen na de inontvangstneming van de zaken verlangt, en
+		ii.	bovendien bewijst, dat de schade tussen de aanneming ten vervoer van de zaken en de aflevering is ontstaan;
+	c.	in geval van overschrijding van de afleveringstermijn, indien de rechthebbende zijn rechten binnen zestig dagen bij een van de in artikel 1591 lid 1 bedoelde vervoerders heeft doen gelden;
+	d.	indien de rechthebbende bewijst dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
+
+3.	Indien de zaken overeenkomstig artikel 1576 doorgezonden zijn, vervallen de vorderingen uit een der voorafgaande vervoerovereenkomsten in geval van gedeeltelijk verlies of beschadiging als betrof het een enkele overeenkomst.
+
+Afdeling 5. Onderlinge betrekkingen tussen de vervoerders
+
+Artikel 1593
+
+1.	Elke vervoerder moet aan de betrokken vervoerders het hun toekomende aandeel betalen van de kosten of andere uit de vervoerovereenkomst ontstane schuldvorderingen, die hij ofwel bij vertrek, ofwel bij aankomst heeft geïnd of had moeten innen. De wijze van betaling wordt in een overeenkomst tussen de vervoerders vastgelegd.
+
+2.	Artikel 1560 is eveneens van toepassing op de betrekkingen tussen opvolgende vervoerders.
+
+Artikel 1594
+
+1.	De vervoerder die krachtens deze titel een schadevergoeding heeft betaald, heeft recht van regres jegens de bij het vervoer betrokken vervoerders overeenkomstig de volgende bepalingen:
+	a.	de vervoerder die de schade heeft veroorzaakt, is daarvoor alleen aansprakelijk;
+	b.	wanneer de schade is veroorzaakt door meer vervoerders, is ieder van hen aansprakelijk voor de door hem veroorzaakte schade; is deze toedeling niet mogelijk, dan wordt de schadevergoeding onder hen volgens onderdeel c verdeeld;
+	c.	indien niet kan worden bewezen welke vervoerder de schade heeft veroorzaakt, wordt de schadevergoeding onder alle bij het vervoer betrokken vervoerders verdeeld, met uitsluiting van hen die bewijzen, dat de schade niet door hen is veroorzaakt; de verdeling geschiedt naar evenredigheid van het aandeel in de vrachtprijs dat aan iedere vervoerder toekomt.
+
+2.	In geval van onvermogen om te betalen van een van de vervoerders wordt het te zijnen laste komende en door hem niet betaalde aandeel onder de andere bij het vervoer betrokken vervoerders verdeeld naar evenredigheid van het aandeel in de vrachtprijs dat aan ieder van hen toekomt.
+
+Artikel 1595
+
+1.	De gegrondheid van de betaling verricht door de vervoerder die krachtens artikel 1594 het regres uitoefent, kan niet betwist worden door de vervoerder tegen wie het bedoeld regres wordt uitgeoefend, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer deze laatstgenoemde vervoerder, naar behoren gedagvaard, de mogelijkheid is geboden tot tussenkomst in het geding. De rechter bij wie de hoofdvordering aanhangig is, stelt de termijnen voor de betekening van de dagvaarding en voor de tussenkomst vast.
+
+2.	De vervoerder die het regres uitoefent, moet zijn vordering instellen in één en hetzelfde geding tegen alle vervoerders met wie hij geen schikking heeft getroffen, op straffe van verlies van regres jegens de niet gedagvaarde vervoerders.
+
+3.	De rechter beslist in één uitspraak over alle bij hem aanhangige regresvorderingen.
+
+4.	Regresvorderingen kunnen niet aanhangig worden gemaakt door het instellen van een rechtsvordering in het geding dat de rechthebbende heeft ingesteld om schadevergoeding te verlangen op grond van de vervoerovereenkomst.
+
+Artikel 1596
+
+De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de artikelen 1593 en 1594.
+
 Titel 19. Ongevallen
 
-Afdeling 4. Gevaarlijke stoffen aan boord van een spoorrijtuig
+Afdeling 1. Aansprakelijkheid voor spoorvoertuigen en spoorweginfrastructuur
+
+Artikel 1661
+
+1.	De aansprakelijkheid op grond van artikel 173 van Boek 6 ten aanzien van een spoorvoertuig, dat bij een spoorwegonderneming in gebruik is, rust op die spoorwegonderneming. Is het spoorvoertuig in gebruik bij een bedrijf van andere aard, dan rust deze aansprakelijkheid op dit andere bedrijf. Wordt het spoorvoertuig gebruikt door het ter beschikking te stellen voor gebruik in de uitoefening van het bedrijf van een ander, dan rust die aansprakelijkheid op die ander.
+
+2.	De aansprakelijkheid op grond van artikel 174 van Boek 6 ten aanzien van de spoorweginfrastructuur rust op de beheerder.
+
+Afdeling 2. Gevaarlijke stoffen aan boord van een spoorrijtuig
 
 Artikel 1670
 
 In deze afdeling wordt verstaan onder:
 	a.	"gevaarlijke stof": een stof die als zodanig bij algemene maatregel van bestuur is aangewezen; de aanwijzing kan worden beperkt tot bepaalde concentraties van de stof, tot bepaalde in de algemene maatregel van bestuur te omschrijven gevaren die aan de stof verbonden zijn, en tot bepaalde daarin te omschrijven situaties waarin de stof zich bevindt;
-	b.	"spoorrijtuig": elk voertuig, ingericht om op spoorstaven te rijden;
+	b.	"spoorvoertuig": elk voertuig, ingericht om op spoorstaven te rijden;
 	c.	"schade":
 		1°.	schade veroorzaakt door dood of letsel van enige persoon veroorzaakt door een gevaarlijke stof;
-		2°.	andere schade buiten het spoorrijtuig aan boord waarvan de gevaarlijke stof zich bevindt, veroorzaakt door die gevaarlijke stof, met uitzondering van verlies van of schade met betrekking tot andere spoorrijtuigen en zaken aan boord daarvan, indien die spoorrijtuigen deel uitmaken van een trein, waarvan ook dit spoorrijtuig deel uitmaakt;
+		2°.	andere schade buiten het spoorvoertuig aan boord waarvan de gevaarlijke stof zich bevindt, veroorzaakt door die gevaarlijke stof, met uitzondering van verlies van of schade met betrekking tot andere spoorvoertuigen en zaken aan boord daarvan, indien die spoorvoertuigen deel uitmaken van een trein, waarvan ook dit spoorvoertuig deel uitmaakt;
 		3°.	de kosten van preventieve maatregelen en verlies of schade veroorzaakt door zulke maatregelen;
 	d.	"preventieve maatregel": iedere redelijke maatregel ter voorkoming of beperking van schade door wie dan ook genomen met uitzondering van de overeenkomstig deze afdeling aansprakelijke persoon nadat een gebeurtenis heeft plaatsgevonden;
-	e.	"gebeurtenis": elk feit of elke opeenvolging van feiten met dezelfde oorzaak, waardoor schade ontstaat of waardoor een ernstige en onmiddellijke dreiging van schade ontstaat;
-	f.	"exploitant": hij die een spoorweg exploiteert. In geval van gezamenlijke exploitatie wordt ieder der exploitanten als exploitant beschouwd.
+	e.	"gebeurtenis": elk feit of elke opeenvolging van feiten met dezelfde oorzaak, waardoor schade ontstaat of waardoor een ernstige en onmiddellijke dreiging van schade ontstaat.
 
 Artikel 1671
 
-1.	Deze afdeling is niet van toepassing, indien de exploitant jegens degene die de vordering instelt, aansprakelijk is uit hoofde van een exploitatie-overeenkomst of jegens deze persoon een beroep op een exploitatie-overeenkomst heeft.
+1.	Deze afdeling is niet van toepassing, indien de spoorwegonderneming jegens degene die de vordering instelt, aansprakelijk is uit hoofde van een exploitatie-overeenkomst of jegens deze persoon een beroep op een exploitatie-overeenkomst heeft.
 
-2.	Deze afdeling is van toepassing op de periode waarin een gevaarlijke stof zich in een spoorrijtuig bevindt, daaronder begrepen de periode vanaf het begin van de inlading van de gevaarlijke stof in het spoorrijtuig tot het einde van de lossing van die stof uit het spoorrijtuig.
+2.	Deze afdeling is van toepassing op de periode waarin een gevaarlijke stof zich in een spoorvoertuig bevindt, daaronder begrepen de periode vanaf het begin van de inlading van de gevaarlijke stof in het spoorvoertuig tot het einde van de lossing van die stof uit het spoorvoertuig.
 
-3.	Deze afdeling is niet van toepassing op schade veroorzaakt wanneer het spoorrijtuig uitsluitend wordt gebruikt op een niet voor publiek toegankelijk terrein en zulk gebruik een onderdeel vormt van een op dat terrein plaatsvindende bedrijfsuitoefening.
+3.	Deze afdeling is niet van toepassing op schade veroorzaakt wanneer het spoorvoertuig uitsluitend wordt gebruikt op een niet voor publiek toegankelijk terrein en zulk gebruik een onderdeel vormt van een op dat terrein plaatsvindende bedrijfsuitoefening.
 
 4.	Op zich overeenkomstig het tweede lid aan boord bevindende stoffen als bedoeld in artikel 175 van Boek 6 is dat artikel niet van toepassing, tenzij zich het geval van het derde lid voordoet.
 
 Artikel 1672
 
-Indien een gevaarlijke stof zich bevindt in een vervoermiddel dat zich aan boord van een spoorrijtuig bevindt zonder dat de gevaarlijke stof uit dit gestapelde vervoermiddel wordt gelost, zal de gevaarlijke stof voor die periode geacht worden zich alleen aan boord van genoemd spoorrijtuig te bevinden. Gedurende de handelingen bedoeld in artikel 1673, zesde lid, onderdelen c, d en e, echter zal de gevaarlijke stof geacht worden zich alleen aan boord van het gestapelde vervoermiddel te bevinden.
+Indien een gevaarlijke stof zich bevindt in een vervoermiddel dat zich aan boord van een spoorvoertuig bevindt zonder dat de gevaarlijke stof uit dit gestapelde vervoermiddel wordt gelost, zal de gevaarlijke stof voor die periode geacht worden zich alleen aan boord van genoemd spoorvoertuig te bevinden. Gedurende de handelingen bedoeld in artikel 1673, vijfde lid, onderdelen c, d en e, echter zal de gevaarlijke stof geacht worden zich alleen aan boord van het gestapelde vervoermiddel te bevinden.
 
 Artikel 1673
 
-1.	Hij die ten tijde van een gebeurtenis met een spoorrijtuig aan boord waarvan zich een gevaarlijke stof bevindt, exploitant is van de spoorweg waarop de gebeurtenis plaatsvond, is aansprakelijk voor de schade door die stof veroorzaakt ten gevolge van die gebeurtenis. Bestaat de gebeurtenis uit een opeenvolging van feiten met dezelfde oorzaak, dan rust de aansprakelijkheid op degene die ten tijde van het eerste feit exploitant was.
+1.	De spoorwegonderneming die ten tijde van een gebeurtenis met een spoorvoertuig aan boord waarvan zich een gevaarlijke stof bevindt, de zeggenschap heeft over het gebruik van dat spoorvoertuig, is aansprakelijk voor de schade door deze stof veroorzaakt ten gevolge van deze gebeurtenis. Indien de gevaarlijke stof zich bevindt in een spoorvoertuig, voortbewogen door middel van tractie, berust de zeggenschap over het gebruik van dat spoorvoertuig bij de spoorwegonderneming die de zeggenschap over de tractie heeft. Bestaat de gebeurtenis uit een opeenvolging van feiten met dezelfde oorzaak, dan rust de aansprakelijkheid op de spoorwegonderneming die ten tijde van het eerste feit de zeggenschap over het gebruik van het spoorvoertuig had.
 
-2.	Indien gedurende de handelingen bedoeld in het zesde lid, onderdelen c, d en e, het spoorrijtuig waarin de gevaarlijke stof zich bevindt, wordt voortbewogen over een andere spoorweg dan de spoorweg waarop het spoorrijtuig zich bevond bij de aanvang van de handelingen, is uitsluitend de exploitant van de laatstbedoelde spoorweg aansprakelijk voor schade door die stof veroorzaakt tijdens deze handelingen.
-
-3.	De exploitant is niet aansprakelijk indien:
+2.	De spoorwegonderneming is niet aansprakelijk indien:
 	a.	de schade is veroorzaakt door een oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of natuurgebeuren van uitzonderlijke, onvermijdelijke en onweerstaanbare aard;
-	b.	de schade uitsluitend is veroorzaakt door een handelen of nalaten van een derde, niet zijnde een persoon genoemd in het zesde lid, onderdeel a, geschied met het opzet de schade te veroorzaken;
-	c.	de afzender of enige andere persoon niet heeft voldaan aan zijn verplichting hem in te lichten over de gevaarlijke aard van de stof, en noch de exploitant, noch de in het zesde lid, onderdeel a, genoemde personen wisten of hadden behoren te weten dat deze gevaarlijk was.
+	b.	de schade uitsluitend is veroorzaakt door een handelen of nalaten van een derde, niet zijnde een persoon genoemd in het vijfde lid, onderdeel a, geschied met het opzet de schade te veroorzaken;
+	c.	de afzender of enige andere persoon niet heeft voldaan aan zijn verplichting hem in te lichten over de gevaarlijke aard van de stof, en noch de spoorwegonderneming, noch de in het vijfde lid, onderdeel a, genoemde personen wisten of hadden behoren te weten dat deze gevaarlijk was.
 
-4.	Indien de exploitant bewijst dat de schade geheel of gedeeltelijk het gevolg is van een handelen of nalaten van de persoon die de schade heeft geleden, met het opzet de schade te veroorzaken, of van de schuld van die persoon, kan hij geheel of gedeeltelijk worden ontheven van zijn aansprakelijkheid tegenover die persoon.
+3.	Indien de spoorwegonderneming bewijst dat de schade geheel of gedeeltelijk het gevolg is van een handelen of nalaten van de persoon die de schade heeft geleden, met het opzet de schade te veroorzaken, of van de schuld van die persoon, kan hij geheel of gedeeltelijk worden ontheven van zijn aansprakelijkheid tegenover die persoon.
 
-5.	De exploitant kan voor schade slechts uit anderen hoofde dan deze afdeling worden aangesproken in het geval van het derde lid, onderdeel c, alsmede in het geval dat hij uit hoofde van arbeidsovereenkomst kan worden aangesproken. In het geval van het derde lid, onderdeel c, kan de exploitant deze aansprakelijkheid beperken als ware hij op grond van deze afdeling aansprakelijk.
+4.	De spoorwegonderneming kan voor schade slechts uit anderen hoofde dan deze afdeling worden aangesproken in het geval van het tweede lid, onderdeel c, alsmede in het geval dat hij uit hoofde van arbeidsovereenkomst kan worden aangesproken. In het geval van het tweede lid, onderdeel c, kan de spoorwegonderneming deze aansprakelijkheid beperken als ware hij op grond van deze afdeling aansprakelijk.
 
-6.	Behoudens de artikelen 1674 en 1675 zijn voor schade niet aansprakelijk:
-	a.	de ondergeschikten, vertegenwoordigers of lasthebbers van de exploitant,
+5.	Behoudens de artikelen 1674 en 1675 zijn voor schade niet aansprakelijk:
+	a.	de ondergeschikten, vertegenwoordigers of lasthebbers van de spoorwegonderneming,
 	b.	ieder die ten behoeve van het spoorrijtuig werkzaamheden verricht,
-	c.	zij die anders dan tegen een uitdrukkelijk en redelijk verbod vanwege de exploitant in hulp verlenen aan het spoorrijtuig, de zich aan boord daarvan bevindende zaken of personen,
+	c.	zij die anders dan tegen een uitdrukkelijk en redelijk verbod vanwege de spoorwegonderneming in hulp verlenen aan het spoorrijtuig, de zich aan boord daarvan bevindende zaken of personen,
 	d.	zij die op aanwijzing van een bevoegde overheidsinstantie hulp verlenen aan het spoorrijtuig, de zich aan boord daarvan bevindende zaken of personen,
-	e.	zij die preventieve maatregelen nemen met uitzondering van de exploitant,
+	e.	zij die preventieve maatregelen nemen met uitzondering van de spoorwegonderneming,
 	f.	de ondergeschikten, vertegenwoordigers of lasthebbers van de in dit lid, onderdelen b, c, d en e, van aansprakelijkheid vrijgestelde personen, tenzij de schade is ontstaan uit hun eigen handelen of nalaten, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
-7.	De exploitant heeft, voor zover niet anders is overeengekomen, verhaal op de in het zesde lid bedoelde personen, doch uitsluitend indien dezen ingevolge het slot van dit lid voor de schade kunnen worden aangesproken.
+6.	De spoorwegonderneming heeft, voor zover niet anders is overeengekomen, verhaal op de in het zesde lid bedoelde personen, doch uitsluitend indien dezen ingevolge het slot van dit lid voor de schade kunnen worden aangesproken.
+
+7.	Voor de toepassing van dit en het volgende artikel wordt de beheerder van de door de spoorwegonderneming gebruikte spoorweginfrastructuur begrepen onder de in lid 5 onder a bedoelde personen.
 
 Artikel 1674
 
-1.	Indien de exploitant bewijst dat de gevaarlijke stof tijdens de periode bedoeld in artikel 1671, tweede lid, is geladen of gelost onder de uitsluitende verantwoordelijkheid van een door hem bij name genoemde ander dan de exploitant of zijn ondergeschikte, vertegenwoordiger of lasthebber, zoals de afzender of ontvanger, is de exploitant niet aansprakelijk voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof en is die ander voor deze schade aansprakelijk overeenkomstig deze afdeling.
+1.	Indien de spoorwegonderneming bewijst dat de gevaarlijke stof tijdens de periode bedoeld in artikel 1671, tweede lid, is geladen of gelost onder de uitsluitende verantwoordelijkheid van een door hem bij name genoemde ander dan de spoorwegonderneming of zijn ondergeschikte, vertegenwoordiger of lasthebber, zoals de afzender of ontvanger, is de spoorwegonderneming niet aansprakelijk voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof en is die ander voor deze schade aansprakelijk overeenkomstig deze afdeling.
 
-2.	Indien echter de gevaarlijke stof tijdens de periode bedoeld in artikel 1671, tweede lid, is geladen of gelost onder de gezamenlijke verantwoordelijkheid van de exploitant en een door de exploitant bij name genoemde ander, zijn de exploitant en die ander hoofdelijk aansprakelijk overeenkomstig deze afdeling voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof.
+2.	Indien echter de gevaarlijke stof tijdens de periode bedoeld in artikel 1671, tweede lid, is geladen of gelost onder de gezamenlijke verantwoordelijkheid van de spoorwegonderneming en een door de spoorwegonderneming bij name genoemde ander, zijn de spoorwegonderneming en die ander hoofdelijk aansprakelijk overeenkomstig deze afdeling voor de schade als gevolg van een gebeurtenis tijdens het laden of lossen van de gevaarlijke stof.
 
 3.	Indien is geladen of gelost door een persoon in opdracht of ten behoeve van de vervoerder of een ander, zoals de afzender of de ontvanger, is niet deze persoon, maar de vervoerder of die ander aansprakelijk.
 
-4.	Indien een ander dan de exploitant op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 1673, vijfde lid en zesde lid, onderdeel b.
+4.	Indien een ander dan de spoorwegonderneming op grond van het eerste of het tweede lid aansprakelijk is, kan die ander geen beroep doen op artikel 1673, vijfde lid en zesde lid, onderdeel b.
 
-5.	Indien een ander dan de exploitant op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander de artikelen 1678 tot en met 1680 van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid:
+5.	Indien een ander dan de spoorwegonderneming op grond van het eerste of het tweede lid aansprakelijk is, zijn ten aanzien van die ander de artikelen 1678 tot en met 1680 van overeenkomstige toepassing, met dien verstande dat in geval van hoofdelijke aansprakelijkheid:
 	a.	de beperking van aansprakelijkheid als bepaald krachtens artikel 1678, eerste lid, geldt voor het geheel der naar aanleiding van eenzelfde gebeurtenis ontstane vorderingen gericht tegen beiden;
 	b.	een fonds gevormd door één van hen overeenkomstig artikel 1679 wordt aangemerkt als door beiden te zijn gevormd en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.
 
-6.	In de onderlinge verhouding tussen de exploitant en de in het tweede lid van dit artikel genoemde ander is de exploitant niet tot vergoeding verplicht dan in geval van schuld van hemzelf of van zijn ondergeschikten, vertegenwoordigers of lasthebbers.
+6.	In de onderlinge verhouding tussen de spoorwegonderneming en de in het tweede lid van dit artikel genoemde ander is de spoorwegonderneming niet tot vergoeding verplicht dan in geval van schuld van hemzelf of van zijn ondergeschikten, vertegenwoordigers of lasthebbers.
 
 7.	Dit artikel is niet van toepassing als tijdens de periode, bedoeld in artikel 1671, tweede lid, is geladen of gelost onder de uitsluitende of gezamenlijke verantwoordelijkheid van een persoon, genoemd in artikel 1673, zesde lid, onderdeel c, d of e.
 
 Artikel 1675
 
-Indien ingevolge artikel 1673, derde lid, onderdeel c, de exploitant niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien de artikelen 1678 tot en met 1680 van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 1673, vijfde lid.
+Indien ingevolge artikel 1673, derde lid, onderdeel c, de spoorwegonderneming niet aansprakelijk is, is de afzender of andere persoon aansprakelijk overeenkomstig deze afdeling en zijn te diens aanzien de artikelen 1678 tot en met 1680 van overeenkomstige toepassing. De afzender of andere persoon kan geen beroep doen op artikel 1673, vijfde lid.
 
 Artikel 1676
 
@@ -5031,19 +5547,19 @@ Indien schade veroorzaakt door de gevaarlijke stof redelijkerwijs niet kan worde
 
 Artikel 1677
 
-1.	Wanneer door een gebeurtenis schade is veroorzaakt door gevaarlijke stoffen aan boord van een spoorrijtuig dat gebruikt werd op meer dan één door verschillende exploitanten geëxploiteerde spoorweg, dan wel aan boord van een spoorrijtuig dat gebruikt werd op een of meer spoorwegen en een voertuig of luchtkussenvoertuig, zijn de exploitanten van de daarbij betrokken spoorwegen, het voertuig of het luchtkussenvoertuig, onverminderd het in artikel 1673, derde en vierde lid, en artikel 1674 en afdeling 1 van titel 14 bepaalde, hoofdelijk aansprakelijk voor alle schade waarvan redelijkerwijs niet kan worden aangenomen dat zij veroorzaakt is door gevaarlijke stoffen aan boord van een spoorrijtuig dat gebruikt werd op één of meer bepaalde spoorwegen of aan boord van een bepaald voertuig of luchtkussenvoertuig.
+1.	Wanneer door een gebeurtenis schade is veroorzaakt door gevaarlijke stoffen aan boord van een of meer spoorvoertuigen en een of meer voertuigen dan wel luchtkussenvoertuigen, zijn de spoorwegondernemingen die over het gebruik van die spoorvoertuigen de zeggenschap hadden, en de exploitanten van die voertuigen of luchtkussenvoertuigen, onverminderd het bepaalde in artikel 1673, tweede en derde lid, en artikel 1674 en afdeling 1 van titel 14 bepaalde, hoofdelijk aansprakelijk voor alle schade waarvan redelijkerwijs niet kan worden aangenomen dat zij veroorzaakt is door gevaarlijke stoffen aan boord van een bepaald spoorvoertuig of aan boord van een bepaald voertuig of luchtkussenvoertuig.
 
-2.	Het bepaalde in het eerste lid laat onverlet het beroep op beperking van aansprakelijkheid van de exploitant krachtens deze afdeling of de artikelen 1218 tot en met 1220, ieder tot het voor hem geldende bedrag.
+2.	Het bepaalde in het eerste lid laat onverlet het beroep op beperking van aansprakelijkheid van de spoorwegonderneming of exploitant van dat voertuig of luchtkussenvoertuig krachtens deze afdeling of de artikelen 1218 tot en met 1220, ieder tot het voor hem geldende bedrag.
 
 Artikel 1678
 
-1.	De exploitant kan zijn aansprakelijkheid per gebeurtenis beperken tot een bij of krachtens algemene maatregel van bestuur te bepalen bedrag of bedragen die verschillend kunnen zijn voor vorderingen ter zake van dood of letsel en andere vorderingen.
+1.	De spoorwegonderneming kan zijn aansprakelijkheid per gebeurtenis beperken tot een bij of krachtens algemene maatregel van bestuur te bepalen bedrag of bedragen die verschillend kunnen zijn voor vorderingen ter zake van dood of letsel en andere vorderingen.
 
-2.	De exploitant is niet gerechtigd zijn aansprakelijkheid te beperken indien de schade is ontstaan uit zijn eigen handelen of nalaten, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
+2.	De spoorwegonderneming is niet gerechtigd zijn aansprakelijkheid te beperken indien de schade is ontstaan uit zijn eigen handelen of nalaten, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
 Artikel 1679
 
-Ten einde zich te kunnen beroepen op de in artikel 1678 bedoelde beperking van aansprakelijkheid moet de exploitant een fonds of fondsen vormen overeenkomstig artikel 1680.
+Ten einde zich te kunnen beroepen op de in artikel 1678 bedoelde beperking van aansprakelijkheid moet de spoorwegonderneming een fonds of fondsen vormen overeenkomstig artikel 1680.
 
 Artikel 1680
 
@@ -5053,7 +5569,7 @@ Artikel 1680
 
 3.	Indien het krachtens artikel 1678, eerste lid, bepaalde bedrag voor vorderingen ter zake van dood of letsel onvoldoende is voor volledige vergoeding van deze vorderingen, worden deze vorderingen in evenredigheid gekort en zal het krachtens artikel 1678, eerste lid, bepaalde bedrag voor andere vorderingen naar evenredigheid worden verdeeld onder die vorderingen en de vorderingen ter zake van dood of letsel, voor zover deze onvoldaan zouden zijn.
 
-4.	De vorderingen van de exploitant ter zake van door hem vrijwillig en binnen de grenzen der redelijkheid gedane uitgaven en gebrachte offers ter voorkoming of beperking van schade staan in rang gelijk met andere vorderingen op het krachtens artikel 1678, eerste lid, bepaalde bedrag voor andere vorderingen dan die ter zake van dood of letsel.
+4.	De vorderingen van de spoorwegonderneming ter zake van door hem vrijwillig en binnen de grenzen der redelijkheid gedane uitgaven en gebrachte offers ter voorkoming of beperking van schade staan in rang gelijk met andere vorderingen op het krachtens artikel 1678, eerste lid, bepaalde bedrag voor andere vorderingen dan die ter zake van dood of letsel.
 
 VII. Slotbepalingen
 
@@ -5156,6 +5672,23 @@ Artikel 1722
 2.	Indien bij een overeenkomst van gecombineerd goederenvervoer aan hem die de rechtsvordering instelt niet bekend is waar de omstandigheid, die tot de rechtsvordering aanleiding gaf, is opgekomen, wordt die der in aanmerking komende bepalingen van verjaring of verval toegepast die voor hem de gunstigste is.
 
 3.	Nietig is ieder beding, waarbij van het tweede lid van dit artikel wordt afgeweken.
+
+Artikel 1727
+
+1.	Een rechtsvordering gegrond op een overeenkomst tot goederenvervoer over spoorwegen verjaart door verloop van één jaar. De verjaringstermijn bedraagt evenwel twee jaar indien de rechtsvordering:
+	a.	strekt tot betaling van een door de vervoerder van de geadresseerde geïnd rembours;
+	b.	strekt tot betaling van de opbrengst van een door de vervoerder verrichte verkoop;
+	c.	gegrond is op een schade ontstaan uit een handeling of nalaten geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien;
+	d.	gegrond is op één van de aan de doorzending voorafgaande vervoerovereenkomsten, in het geval bedoeld in artikel 1576.
+
+2.	De verjaring neemt een aanvang bij rechtsvorderingen:
+	a.	tot schadevergoeding wegens geheel verlies: op de dertigste dag na afloop van de afleveringstermijn;
+	b.	tot schadevergoeding wegens gedeeltelijk verlies, beschadiging of overschrijding van de aflevering: op de dag van de aflevering;
+	c.	in alle overige gevallen: op de dag waarop het recht kan worden uitgeoefend.
+
+De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn begrepen.
+
+3.	Ingeval overeenkomstig artikel 1589 een schriftelijke vordering buiten rechte met de nodige bewijsstukken is ingediend, is de verjaring geschorst tot de dag waarop de vervoerder de vordering schriftelijk afwijst en de bijgevoegde stukken terugzendt. Bij gedeeltelijke erkenning van de vordering begint de verjaringstermijn weer te lopen voor het nog betwiste gedeelte van de vordering. Het bewijs van de ontvangst van de vordering of van het antwoord en van de teruggave van de stukken rust op de partij die zich daarop beroept. Latere vorderingen buiten rechte met dezelfde inhoud schorsen de verjaring niet.
 
 Afdeling 3. Bijzondere exploitatie-overeenkomsten
 
@@ -5315,7 +5848,7 @@ Artikel 1832
 
 2.	De termijn van deze verjaring begint met de aanvang van de dag, volgende op die waarop de dispache of een uittreksel daarvan dan wel, indien een verzoek tot herziening der dispache is gedaan, de naar aanleiding daarvan opgestelde dispache of een uittreksel daarvan aan partijen is medegedeeld of aan dezen is medegedeeld, dat deze dispache ter griffie van de rechtbank is gedeponeerd, doch in geval van homologatie eerst op de dag dat de dispache bij in kracht van gewijsde gegane beschikking is gehomologeerd.
 
-Afdeling 12. Gevaarlijke stoffen aan boord van een zeeschip, een binnenschip, een voertuig en een spoorrijtuig
+Afdeling 12. Gevaarlijke stoffen aan boord van een zeeschip, een binnenschip, een voertuig en een spoorvoertuig
 
 Artikel 1833
 
