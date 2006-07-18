@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 01-06-2006 t/m 18-07-2006
+Geldend van 19-07-2006 t/m 30-11-2006
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -574,9 +574,7 @@ De goedkeuring der rekening en verantwoording door de meerderheid van de leden d
 
 Artikel 169
 
-1.	De betrekking van de boekhouder eindigt, indien over hem een provisionele bewindvoerder is benoemd, hij onder curatele is gesteld, terzake van krankzinnigheid in een gesticht is geplaatst, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij niet langer de nationaliteit van een van de lid-staten van de Europese Gemeenschappen of van een van de overige Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte bezit of buiten het grondgebied van een van de lid-staten van de Europese Gemeenschappen of van een van de overige Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte gaat wonen.
-
-2.	De betrekking van een vennootschap als boekhouder eindigt indien deze vennootschap ophoudt een rechtspersoon als bedoeld in artikel 311, derde lid, van het Wetboek van Koophandel te zijn.
+De betrekking van de boekhouder eindigt, indien over hem een provisionele bewindvoerder is benoemd, hij onder curatele is gesteld, terzake van krankzinnigheid in een gesticht is geplaatst, in staat van faillissement is verklaard of indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard.
 
 Artikel 170
 
@@ -593,11 +591,10 @@ Artikel 171
 2.	Het kleinste aandeel geeft één stem; ieder groter aandeel zoveel stemmen als het aantal malen, dat in dit aandeel het kleinste begrepen is.
 
 3.	Besluiten tot
-	a.	aanstelling van een boekhouder, die buiten het grondgebied van een van de lid-staten van de Europese Gemeenschappen of van een van de overige Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte woont, niet is lid der rederij, niet de nationaliteit van een van de lid-staten van de Europese Gemeenschappen of van een van de overige Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte bezit of een vennootschap is, niet zijnde een rechtspersoon als bedoeld in artikel 311, derde lid, van het Wetboek van Koophandel,
+	a.	aanstelling van een boekhouder die geen lid is van de rederij,
 	b.	uitbreiding van de bevoegdheid van de boekhouder buiten de grenzen getrokken door artikel 178 eerste lid,
 	c.	het sluiten, voor meer dan zes maanden, van een rompbevrachting, een tijdbevrachting of een overeenkomst, als genoemd in artikel 531 of artikel 991,
 	d.	ontbinding der rederij tijdens de loop van een overeenkomst tot vervoer, van een overeenkomst waarbij het schip ter beschikking van een ander is gesteld, of van een ter visvangst ondernomen reis,
-	e.	de gehele of gedeeltelijke overdracht van een aandeel in het schip, waardoor dit de hoedanigheid van Nederlands schip zou verliezen,
 
 vereisen eenstemmigheid.
 
@@ -617,7 +614,7 @@ Artikel 174
 
 Artikel 175
 
-Indien anders dan door overdracht van een aandeel in het schip, dit schip zou ophouden een Nederlands schip te zijn in de zin van artikel 311 van het Wetboek van Koophandel, kan de rechter, op een binnen twee maanden door een lid der rederij gedaan verzoek, bevelen, dat het aandeel in het schip wordt verkocht. De wijze van verkoop wordt door de rechter bepaald. Het aandeel mag alleen worden toegewezen aan een gegadigde, door wiens verkrijging het schip weer een Nederlands schip is in de zin van artikel 311 van het Wetboek van Koophandel.
+[Vervallen per 19-07-2006]
 
 Artikel 176
 
