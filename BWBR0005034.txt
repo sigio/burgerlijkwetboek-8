@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 23-12-2009 t/m 30-12-2010
+Geldend van 31-12-2010 t/m 31-12-2010
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -2104,6 +2104,10 @@ Artikel 627
 
 2.	Het bepaalde in het eerste lid laat onverlet het beroep op beperking van aansprakelijkheid van de reder, eigenaar of exploitant krachtens titel 7 of titel 12, dan wel de artikelen 1218 tot en met 1220, ieder tot het voor hem geldende bedrag.
 
+Afdeling 5. Aansprakelijkheid voor schade door verontreiniging door bunkerolie
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
 
 Artikel 750
@@ -2159,13 +2163,13 @@ Artikel 755
 			–	333 rekeneenheden voor elke toename van de tonnage met één van 3 001 tot en met 30 000;
 			–	250 rekeneenheden voor elke toename van de tonnage met één van 30 001 tot en met 70 000;
 			–	167 rekeneenheden voor elke toename van de tonnage met één boven de 70 000.
-	b.	wanneer het enige andere vordering betreft die niet is een vordering als bedoeld in artikel 752, eerste lid, onder d of e(zakenfonds)
+	b.	wanneer het enige andere vordering betreft die niet is een vordering als bedoeld in artikel 752, eerste lid, onder d of e (zakenfonds)
 		1°.	167 000 rekeneenheden voor een schip, waarvan de tonnage niet meer dan 500 bedraagt;
 		2°.	voor een schip, waarvan de tonnage groter is dan 500, wordt het onder 1 genoemde bedrag vermeerderd met
 			–	167 rekeneenheden voor elke toename van de tonnage met één van 501 tot en met 30 000;
 			–	125 rekeneenheden voor elke toename van de tonnage met één van 30 001 tot en met 70 000;
 			–	83 rekeneenheden voor elke toename van de tonnage met één boven de 70 000.
-	c.	wanneer het vorderingen betreft als bedoeld in artikel 752, eerste lid, onder dofe (wrakkenfonds)
+	c.	wanneer het vorderingen betreft als bedoeld in artikel 752, eerste lid, onder d of e (wrakkenfonds)
 		1°.	262 000 rekeneenheden voor een schip, waarvan de tonnage niet meer dan 500 bedraagt;
 		2°.	voor een schip, waarvan de tonnage groter is dan 500, wordt het onder 1 genoemde bedrag vermeerderd met
 			–	333 rekeneenheden voor elke toename van de tonnage met één van 501 tot en met 6 000;
@@ -2178,7 +2182,7 @@ Artikel 755
 
 4.	Voor de toepassing van deze titel wordt onder tonnage van het schip verstaan de bruto-tonnage van het schip berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
 
-5.	Op verzoek van de eigenaar kan door de inspecteur-generaal van de Inspectie Verkeer en Waterstaat een verklaring worden afgegeven betreffende de bruto-tonnage van een schip, berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
+5.	Op verzoek van de eigenaar kan door Onze Minister van Verkeer en Waterstaat een verklaring worden afgegeven betreffende de bruto-tonnage van een schip, berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
 
 6.	Deze verklaring wordt afgegeven tegen betaling van de kosten volgens een door Onze Minister van Verkeer en Waterstaat vast te stellen tarief.
 
@@ -5861,6 +5865,10 @@ Afdeling 12. Gevaarlijke stoffen aan boord van een zeeschip, een binnenschip, ee
 Artikel 1833
 
 Een rechtsvordering tot vergoeding van schade uit hoofde van de afdelingen 4 van titel 6, 4 van titel 11, 1 van titel 14 en 4 van titel 19 verjaart door verloop van drie jaren na de aanvang van de dag, volgende op die waarop de benadeelde bekend was of redelijkerwijze bekend had behoren te zijn met de schade en de daarvoor aansprakelijke persoon en in ieder geval door verloop van tien jaren na de gebeurtenis waardoor de schade is ontstaan. Indien de gebeurtenis bestond uit een opeenvolging van feiten met dezelfde oorzaak, loopt de termijn van tien jaren vanaf de dag waarop het laatste van die feiten plaatsvond.
+
+Artikel 1833a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Afdeling 13. Luchtrecht
 
