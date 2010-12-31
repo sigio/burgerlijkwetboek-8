@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 31-12-2010 t/m 31-12-2010
+Geldend van 01-01-2011 t/m 30-06-2011
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -1746,7 +1746,7 @@ Aanvaring is de aanraking van schepen met elkaar.
 
 Artikel 541
 
-Onder voorbehoud van de Wet aansprakelijkheid olietankschepen vindt het in deze afdeling omtrent aanvaring bepaalde eveneens toepassing indien schade door een zeeschip is veroorzaakt zonder dat een aanvaring plaats had.
+Onder voorbehoud van de Wet aansprakelijkheid olietankschepen en afdeling 5 van deze titel vindt het in deze afdeling omtrent aanvaring bepaalde eveneens toepassing indien schade door een zeeschip is veroorzaakt zonder dat een aanvaring plaats had.
 
 Artikel 542
 
@@ -2043,6 +2043,8 @@ Artikel 621
 
 4.	Op zich overeenkomstig het tweede lid aan boord bevindende stoffen als bedoeld in artikel 175 van Boek 6 is dat artikel niet van toepassing, tenzij zich het geval van het derde lid voordoet.
 
+5.	Deze afdeling is niet van toepassing op schade door verontreiniging door bunkerolie zoals bedoeld in afdeling 5 van deze titel.
+
 Artikel 622
 
 1.	Indien een gevaarlijke stof zich bevindt in een vervoermiddel dat zich aan boord van een schip bevindt zonder dat de gevaarlijke stof uit dit gestapelde vervoermiddel wordt gelost, zal de gevaarlijke stof voor die periode geacht worden zich alleen aan boord van dat schip te bevinden. In afwijking van het in de vorige zin bepaalde zal, gedurende de handelingen bedoeld in artikel 623, vijfde lid, onderdelen c, d en e, de gevaarlijke stof geacht worden zich alleen aan boord van het gestapelde vervoermiddel te bevinden.
@@ -2106,7 +2108,134 @@ Artikel 627
 
 Afdeling 5. Aansprakelijkheid voor schade door verontreiniging door bunkerolie
 
-[Dit onderdeel is nog niet inwerking getreden]
+Paragraaf 1. algemene bepalingen en toepassingsgebied
+
+Artikel 639
+
+In deze afdeling wordt verstaan onder:
+	a.	«Verdrag»: het op 23 maart 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001 (Trb. 2005, 329);
+	b.	«Aansprakelijkheidsverdrag»: het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);
+	c.	«Onze Minister»: de Minister van Verkeer en Waterstaat;
+	d.	«schip», «persoon», «bunkerolie», «preventieve maatregelen», «voorval», «schade door verontreiniging», «Staat waar het schip is geregistreerd», «brutotonnage», «organisatie» en «Secretaris-Generaal»: hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag;
+	e.	«scheepseigenaar»: de eigenaar van het schip, hieronder begrepen de geregistreerde eigenaar, rompbevrachter, beheerder of degene in wiens handen de exploitatie van het schip is gelegd;
+	f.	«geregistreerde eigenaar»: de persoon of personen die als eigenaar van het schip zijn geregistreerd of, indien er geen registratie heeft plaatsgevonden, de persoon of personen die het schip in eigendom hebben. Indien evenwel een schip eigendom is van een Staat en geëxploiteerd wordt door een maatschappij die in die Staat geregistreerd staat als de exploitant van het schip, betekent «geregistreerde eigenaar» een zodanige maatschappij.
+
+Artikel 640
+
+1.	Deze afdeling is van toepassing op:
+	a.	schade door verontreiniging door bunkerolie veroorzaakt in Nederland, de territoriale zee daaronder begrepen;
+	b.	schade door verontreiniging door bunkerolie veroorzaakt binnen de Exclusieve Economische Zone (EEZ) van Nederland;
+	c.	preventieve maatregelen, waar ook genomen, ter voorkoming of beperking van zodanige schade.
+
+2.	Deze afdeling is niet van toepassing:
+	a.	op schade door verontreiniging zoals omschreven in het Aansprakelijkheidsverdrag, ongeacht of ten aanzien van die schade wel of geen schadevergoeding verschuldigd is ingevolge dat verdrag; en
+	b.	op oorlogsschepen, ondersteuningsschepen van de marine of andere schepen die toebehoren aan of geëxploiteerd worden door een Staat en die in de betrokken periode uitsluitend worden gebruikt in overheidsdienst voor niet-commerciële doeleinden, behoudens voor zover de desbetreffende Staat anders heeft beslist en daaraan op de voet van artikel 4, derde lid, van het Verdrag genoegzaam uitvoering heeft gegeven.
+
+Paragraaf 2. aansprakelijkheid van de scheepseigenaar
+
+Artikel 641
+
+1.	De scheepseigenaar op het tijdstip van het voorval is, behoudens het bepaalde in het derde en vierde lid, aansprakelijk voor schade door verontreiniging veroorzaakt door bunkerolie aan boord of afkomstig van het schip, met dien verstande dat indien het voorval bestaat uit een opeenvolging van feiten met dezelfde oorsprong, de aansprakelijkheid rust op degene die ten tijde van het eerste feit de scheepseigenaar was.
+
+2.	Indien meer dan een persoon aansprakelijk is op grond van het eerste lid, zijn zij hoofdelijk aansprakelijk.
+
+3.	De scheepseigenaar is niet aansprakelijk indien hij bewijst dat:
+	a.	de schade het gevolg is van een oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of natuurverschijnsel van uitzonderlijke, onvermijdelijke en onweerstaanbare aard;
+	b.	de schade geheel en al werd veroorzaakt door een handelen of nalaten van een derde met het opzet schade te veroorzaken; of
+	c.	de schade geheel en al werd veroorzaakt door onzorgvuldigheid of een andere onrechtmatige handeling van een overheid of andere autoriteit verantwoordelijk voor het onderhoud van vuurtorens of andere hulpmiddelen bij de navigatie, in de uitoefening van die functie.
+
+4.	Indien de scheepseigenaar bewijst dat de schade door verontreiniging geheel of gedeeltelijk het gevolg is van een handelen of nalaten van de persoon die de schade heeft geleden, met het opzet de schade te veroorzaken, of van de schuld van die persoon, kan hij geheel of gedeeltelijk worden ontheven van de aansprakelijkheid tegenover die persoon.
+
+5.	Geen vordering tot vergoeding van schade door verontreiniging kan tegen de scheepseigenaar worden ingesteld anders dan in overeenstemming met deze afdeling.
+
+6.	De scheepseigenaar heeft het recht van verhaal op derden die voor de schade uit anderen hoofde, anders dan uit overeenkomst, jegens de benadeelden aansprakelijk zijn.
+
+Artikel 642
+
+Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging is ontstaan, zijn de eigenaren van alle daarbij betrokken schepen, tenzij deze ingevolge artikel 641 van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is. Op de onderlinge verhouding van de eigenaren van de betrokken schepen is artikel 545, derde lid, laatste volzin, van overeenkomstige toepassing.
+
+Artikel 643
+
+De scheepseigenaar en de persoon of de personen die verzekeren of een andere financiële zekerheid stellen, kunnen hun aansprakelijkheid per voorval beperken uit hoofde van titel 7.
+
+Artikel 644
+
+1.	Vorderingen tot vergoeding van schade door verontreiniging kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar wegens schade door verontreiniging. In dit geval kan de verweerder, zelfs indien de scheepseigenaar op grond van artikel 643 niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 645.
+
+2.	De verweerder komen alle verweermiddelen toe welke de scheepseigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de scheepseigenaar surséance van betaling is verleend, dat ten aanzien van de scheepseigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de scheepseigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de scheepseigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de scheepseigenaar tegen hem ingestelde vordering komen hem niet toe.
+
+3.	De verweerder kan de scheepseigenaar steeds in het geding roepen.
+
+Paragraaf 3. verplichte verzekering
+
+Artikel 645
+
+1.	De geregistreerde eigenaar van een in Nederland teboekstaand schip met een brutotonnage van meer dan 1000 is verplicht een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden voor het bedrag waartoe zijn aansprakelijkheid is beperkt berekend overeenkomstig titel 7, ter dekking van zijn aansprakelijkheid overeenkomstig het bepaalde in deze afdeling en artikel 7 van het Verdrag.
+
+2.	De geregistreerde eigenaar van een schip met een brutotonnage van meer dan 1000 dat teboekstaat buiten Nederland of een andere dan de Nederlandse vlag voert, is verplicht om, indien het schip een haven of laad- of losplaats in Nederland aanloopt of verlaat, of een Nederlands binnenwater bevaart, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden voor het bedrag waartoe zijn aansprakelijkheid is beperkt berekend overeenkomstig titel 7, ter dekking van zijn aansprakelijkheid overeenkomstig het bepaalde in deze afdeling en artikel 7 van het Verdrag.
+
+Artikel 646
+
+De overeenkomst tot verstrekking van financiële zekerheid ten aanzien van een schip dat teboekstaat in Nederland of dat teboekstaat in een Staat die niet partij is bij het Verdrag, of de vlag voert van zulk een Staat, moet voldoen aan het volgende:
+	a.	de overeenkomst moet zijn aangegaan met een verzekeraar, een bank of andere financiële instelling of een andere persoon, van wie Onze Minister, na overleg met Onze Minister van Financiën, de financiële draagkracht tot het geven van dekking voor de uit deze afdeling en het Verdrag voortvloeiende aansprakelijkheid voldoende oordeelt;
+	b.	de gelden uit de overeenkomst moeten, indien de verstrekker van financiële zekerheid buiten Nederland is gevestigd, ook werkelijk in Nederland ter beschikking kunnen komen;
+	c.	uit de overeenkomst moet blijken dat de benadeelde, in overeenstemming met artikel 644 en met artikel 7, tiende lid, van het Verdrag, zijn vordering rechtstreeks tegen de verstrekker van financiële zekerheid kan instellen. Indien de overeenkomst een beding inhoudt dat de scheepseigenaar zelf voor een deel in de vergoeding van de schade zal bijdragen, moet uit de overeenkomst blijken dat de verstrekker van financiële zekerheid niettemin jegens de benadeelde terzake van schade gehouden blijft tot betaling ook van dat deel van de schadevergoeding;
+	d.	uit de overeenkomst moet blijken dat de verstrekker van financiële zekerheid deze binnen de tijdsduur waarvoor het certificaat van artikel 647 is uitgegeven, niet eerder eerder kan schorsen of beëindigen of zodanig wijzigen dat hij niet meer aan dit artikel voldoet, dan na verloop van drie maanden na de datum van ontvangst van een mededeling als bedoeld in artikel 649, eerste lid, tenzij het certificaat is ingeleverd of een nieuw is afgegeven vóór het verstrijken van de termijn.
+
+Artikel 647
+
+1.	Onze Minister geeft aan de geregistreerde eigenaar van een in Nederland teboekstaand schip of van een schip dat niet is teboekgesteld in een Staat die partij is, op diens verzoek een certificaat af als omschreven in artikel 7, tweede lid, van het Verdrag, of waarmerkt als certificaat een door de verstrekker van financiële zekerheid in deze vorm ten behoeve van de geregistreerde eigenaar afgegeven document, indien hem is gebleken dat de geregistreerde eigenaar aan zijn in artikel 645 bedoelde verplichting voldoet.
+
+2.	Bij het verzoek moet de geregistreerde eigenaar de volgende gegevens en stukken overleggen:
+	a.	de naam en woonplaats van de geregistreerde eigenaar en de plaats waar diens hoofdkantoor is gevestigd;
+	b.	een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet, vermeldende ten minste de gegevens bedoeld in artikel 85, tweede lid, onder a, c, d, e, f, g en j van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat ingeval dat uittreksel meer dan twee dagen vóór de dag der overlegging is afgegeven, op dat uittreksel een verklaring van de bewaarder van het Kadaster en de openbare registers moet voorkomen, afgegeven binnen voornoemde termijn van twee dagen, dat sedert de afgifte de op dat uittreksel vermelde gegevens geen wijziging hebben ondergaan;
+	c.	een afschrift van de overeenkomst tot verstrekking van financiële zekerheid;
+	d.	de naam van degene die de financiële zekerheid verstrekt en de plaats waar diens hoofdkantoor is gevestigd, alsmede, zo nodig, het kantoor waar deze zekerheid wordt verstrekt;
+	e.	het tijdstip waarop de financiële zekerheid ingaat en het tijdstip waarop deze een einde neemt.
+
+Artikel 648
+
+Onze Minister wijst een verzoek als bedoeld in artikel 647 af indien de overgelegde gegevens of stukken onvoldoende of onjuist zijn, of indien de overeenkomst tot verstrekking van financiële zekerheid niet voldoet aan de daaraan bij of krachtens deze afdeling gestelde eisen.
+
+Artikel 649
+
+1.	De geregistreerde eigenaar aan wie een certificaat is afgegeven, is verplicht om onverwijld aan Onze Minister schriftelijk mededeling te doen van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid binnen de tijdsduur waarvoor het certificaat is afgegeven, alsmede van elke wijziging welke zich gedurende die tijdsduur voordoet in de gegevens welke bij het in artikel 647 bedoelde verzoek zijn overgelegd.
+
+2.	Onze Minister draagt zorg, dat van een mededeling als bedoeld in het eerste lid ten aanzien van een overeenkomst tot verstrekking van financiële zekerheid voor een in Nederland teboekstaand schip schriftelijk kennis wordt gegeven aan het kantoor van de Dienst voor het Kadaster en de openbare registers, waar de openbare registers waarin het verzoek tot teboekstelling van het schip is ingeschreven, worden gehouden, welke kennisgeving aldaar wordt bewaard.
+
+3.	Het bestaan en de dagtekening van ontvangst van kennisgevingen als bedoeld in het tweede lid worden onverwijld vermeld in de registratie voor schepen, bedoeld in artikel 85 van de Kadasterwet. Kennisgevingen als bedoeld in het tweede lid zijn openbaar.
+
+4.	De in het eerste lid bedoelde mededeling kan behalve door de geregistreerde eigenaar ook worden gedaan door degene die de financiële zekerheid verstrekt.
+
+Artikel 650
+
+1.	Onze Minister kan, na overleg met Onze Minister van Financiën, een certificaat intrekken indien door wijziging in de gegevens welke bij het in artikel 647 bedoelde verzoek zijn overgelegd of doordat die gegevens onvoldoende of onjuist blijken te zijn, het niet meer voldoet aan de bij of krachtens deze afdeling gestelde eisen, of indien er goede gronden zijn om aan te nemen dat de financiële draagkracht van de verstrekker van de financiële zekerheid onvoldoende was, of is geworden of, indien deze buiten Nederland is gevestigd, blijkt van een beletsel voor het werkelijk in Nederland beschikbaar komen van die gelden.
+
+2.	In de beschikking wordt een termijn gesteld voor de inlevering van het certificaat.
+
+3.	De werking van de beschikking wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+
+Artikel 651
+
+1.	De geregistreerde eigenaar is verplicht om het certificaat zo spoedig mogelijk nadat overeenkomstig artikel 649, eerste lid, mededeling is gedaan van het ongeldig worden, de schorsing of de beëindiging van de overeenkomst tot verstrekking van financiële zekerheid, of nadat de tijdsduur waarvoor het is afgegeven is verstreken, bij Onze Minister in te leveren.
+
+2.	De geregistreerde eigenaar is verplicht om het certificaat ingeval van onherroepelijke intrekking bij Onze Minister in te leveren binnen de termijn bedoeld in artikel 650, tweede lid.
+
+Artikel 652
+
+1.	Onze Minister zendt een afschrift van elk door hem ten aanzien van een in Nederland teboekgesteld schip afgegeven certificaat, alsmede van elke onherroepelijke beschikking tot intrekking van een ten aanzien van een in Nederland teboekgesteld schip afgegeven certificaat, aan het kantoor van de Dienst voor het Kadaster en de openbare registers, welke kennisgeving aldaar wordt bewaard.
+
+2.	Artikel 649, derde lid, is van overeenkomstige toepassing.
+
+Artikel 653
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffende de voor de afgifte of waarmerking van een certificaat als bedoeld in artikel 647 verschuldigde vergoedingen.
+
+Paragraaf 4. beroep
+
+Artikel 654
+
+In afwijking van artikel 8:7 van de Algemene wet bestuursrecht is voor beroepen tegen besluiten op grond van deze afdeling de rechtbank te Rotterdam bevoegd.
 
 Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
 
@@ -2141,7 +2270,7 @@ Artikel 752
 Artikel 753
 
 1.	Deze titel is niet van toepassing op:
-	a.	vorderingen uit hoofde van hulpverlening of bijdrage in avarijgrosse;
+	a.	vorderingen uit hoofde van hulpverlening, met inbegrip van, indien van toepassing, een vordering ter zake van een bijzondere vergoeding als bedoeld in artikel 14 van het op 28 april 1989 te Londen tot stand gekomen Internationaal Verdrag inzake hulpverlening (Trb. 1990, 109) zoals nadien gewijzigd, of bijdrage in avarij-grosse;
 	b.	vorderingen voor schade door verontreiniging door olie, zoals deze zijn bedoeld in het op 29 november 1969 tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie of in enige kracht van wet hebbende wijziging van dat Verdrag of Protocol daarbij;
 	c.	vorderingen onderworpen aan enig internationaal verdrag of enige wet, die de beperking van aansprakelijkheid voor kernschade regelt of verbiedt;
 	d.	vorderingen tegen de exploitant van een nucleair schip terzake van kernschade;
@@ -2155,28 +2284,11 @@ Niemand is gerechtigd zijn aansprakelijkheid te beperken, indien bewezen is dat 
 
 Artikel 755
 
-1.	Het bedrag waartoe de aansprakelijkheid uit hoofde van deze titel voor niet in artikel 756 genoemde vorderingen, naar aanleiding van éénzelfde voorval ontstaan, kan worden beperkt (het bedrag van het fonds) beloopt:
-	a.	wanneer het vorderingen betreft ter zake van dood of letsel, die niet zijn vorderingen als bedoeld in artikel 752, eerste lid, onder d of e (personenfonds)
-		1°.	333 000 rekeneenheden voor een schip, waarvan de tonnage niet meer dan 500 bedraagt;
-		2°.	voor een schip, waarvan de tonnage groter is dan 500, wordt het onder 1 genoemde bedrag vermeerderd met
-			–	500 rekeneenheden voor elke toename van de tonnage met één van 501 tot en met 3 000;
-			–	333 rekeneenheden voor elke toename van de tonnage met één van 3 001 tot en met 30 000;
-			–	250 rekeneenheden voor elke toename van de tonnage met één van 30 001 tot en met 70 000;
-			–	167 rekeneenheden voor elke toename van de tonnage met één boven de 70 000.
-	b.	wanneer het enige andere vordering betreft die niet is een vordering als bedoeld in artikel 752, eerste lid, onder d of e (zakenfonds)
-		1°.	167 000 rekeneenheden voor een schip, waarvan de tonnage niet meer dan 500 bedraagt;
-		2°.	voor een schip, waarvan de tonnage groter is dan 500, wordt het onder 1 genoemde bedrag vermeerderd met
-			–	167 rekeneenheden voor elke toename van de tonnage met één van 501 tot en met 30 000;
-			–	125 rekeneenheden voor elke toename van de tonnage met één van 30 001 tot en met 70 000;
-			–	83 rekeneenheden voor elke toename van de tonnage met één boven de 70 000.
-	c.	wanneer het vorderingen betreft als bedoeld in artikel 752, eerste lid, onder d of e (wrakkenfonds)
-		1°.	262 000 rekeneenheden voor een schip, waarvan de tonnage niet meer dan 500 bedraagt;
-		2°.	voor een schip, waarvan de tonnage groter is dan 500, wordt het onder 1 genoemde bedrag vermeerderd met
-			–	333 rekeneenheden voor elke toename van de tonnage met één van 501 tot en met 6 000;
-			–	125 rekeneenheden voor elke toename van de tonnage met één van 6 001 tot en met 70 000;
-			–	83 rekeneenheden voor elke toename van de tonnage met één boven de 70 000.
+1.	Onverminderd het in het tweede lid bepaalde, kan de aansprakelijkheid uit hoofde van deze titel voor andere vorderingen dan die genoemd in artikel 756 die naar aanleiding van éénzelfde voorval zijn ontstaan als volgt worden beperkt:
+	a.	voor vorderingen die niet zijn vorderingen als bedoeld in artikel 752, eerste lid, onder d of e, tot het bedrag bepaald op grond van artikel 6, eerste lid, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996; en
+	b.	voor vorderingen bedoeld in artikel 752, eerste lid, onder d of e (wrakkenfonds), tot het bedrag bepaald op grond van artikel 6, eerste lid, aanhef en onder b, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
 
-2.	Voor schepen, die blijkens hun constructie uitsluitend of in hoofdzaak zijn bestemd tot het vervoer van personen en waarvan de tonnage niet groter is dan 300, kan bij algemene maatregel van bestuur het bedrag waartoe uit hoofde van deze titel de aansprakelijkheid voor de in het eerste lid, aanhef en onder b, bedoelde vorderingen kan worden beperkt, op een lager aantal rekeneenheden worden gesteld dan genoemd in het eerste lid, onder b, onder 1.
+2.	Bij algemene maatregel van bestuur wordt het bedrag vastgesteld waartoe de aansprakelijkheid uit hoofde van deze titel kan worden beperkt voor schepen die blijkens hun constructie uitsluitend of in hoofdzaak zijn bestemd tot het vervoer van personen en waarvan de tonnage niet groter is dan 300, waarbij dat bedrag voor vorderingen bedoeld in artikel 6, eerste lid, aanhef en onder b, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door het Protocol van 1996, op een lager aantal rekeneenheden kan worden gesteld dan is bepaald in genoemd artikel 6, eerste lid, aanhef en onder b, onder 1.
 
 3.	Het bedrag waartoe de aansprakelijkheid van een hulpverlener aan een schip die niet van een zee- of binnenschip uit werkzaamheden verricht of die werkzaamheden uitsluitend verricht op het schip waaraan of met betrekking waartoe hij hulp verleent, kan worden beperkt, wordt berekend naar een tonnage van 1500 ton.
 
@@ -2186,9 +2298,11 @@ Artikel 755
 
 6.	Deze verklaring wordt afgegeven tegen betaling van de kosten volgens een door Onze Minister van Verkeer en Waterstaat vast te stellen tarief.
 
+7.	Voor de toepassing van dit artikel en van artikel 756 wordt verstaan onder «Protocol van 1996»: het op 2 mei 1996 te Londen tot stand gekomen Protocol tot wijziging van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1997, 300).
+
 Artikel 756
 
-1.	Wat betreft vorderingen ontstaan naar aanleiding van éénzelfde voorval terzake van dood of letsel van reizigers van een schip beloopt het bedrag waartoe de reder daarvan zijn aansprakelijkheid kan beperken (passagiersfonds), even vele malen 46 666 rekeneenheden als het schip volgens zijn veiligheidscertificaat gerechtigd is reizigers te vervoeren, doch niet meer dan 25 000 000 rekeneenheden.
+1.	Wat betreft vorderingen ontstaan naar aanleiding van éénzelfde voorval terzake van dood of letsel van passagiers van een schip kan de reder zijn aansprakelijkheid beperken tot het bedrag bepaald in artikel 7 van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 4 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
 
 2.	Onder vorderingen terzake van dood of letsel van reizigers worden voor de toepassing van dit artikel verstaan dergelijke vorderingen ingediend naar aanleiding van een voorval overkomen aan enige persoon vervoerd aan boord van het schip
 	a.	op grond van een overeenkomst tot het vervoer van reizigers;
@@ -5868,7 +5982,7 @@ Een rechtsvordering tot vergoeding van schade uit hoofde van de afdelingen 4 van
 
 Artikel 1833a
 
-[Dit onderdeel is nog niet inwerking getreden]
+Een rechtsvordering tot vergoeding van schade uit hoofde van afdeling 5 van titel 6 vervalt door verloop van drie jaren na de aanvang van de dag waarop de schade is ontstaan en in ieder geval door verloop van zes jaren na de gebeurtenis waardoor de schade is ontstaan. Indien de gebeurtenis bestond uit een opeenvolging van feiten met dezelfde oorzaak, loopt de termijn van zes jaren vanaf de dag waarop het eerste van die feiten plaatsvond.
 
 Afdeling 13. Luchtrecht
 
