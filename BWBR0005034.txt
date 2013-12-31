@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 20-08-2013 t/m 31-12-2013
+Geldend van 01-01-2014 t/m 18-02-2014
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -105,7 +105,9 @@ Afdeling 1. Overeenkomst van goederenvervoer
 
 Artikel 20
 
-De overeenkomst van goederenvervoer is de overeenkomst, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt zaken te vervoeren.
+1.	De overeenkomst van goederenvervoer is de overeenkomst, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt zaken te vervoeren.
+
+2.	Deze afdeling is van overeenkomstige toepassing op het vervoer van elektriciteit, warmte en koude.
 
 Artikel 21
 
