@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 01-07-2015 t/m 30-11-2015
+Geldend van 01-12-2015 t/m 31-12-2015
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -51,9 +51,9 @@ Artikel 3b
 
 In dit wetboek wordt verstaan onder:
 	a.	spoorvoertuig: voertuig, bestemd voor het verkeer over spoorwegen;
-	b.	spoorweginfrastructuur: spoorwegen als bedoeld in artikel 1 van de Spoorwegwet en daarbij horende spoorweginfrastructuur als bedoeld in artikel 1 van de Spoorwegwet;
-	c.	beheerder van de spoorweginfrastructuur: de beheerder bedoeld in artikel 1 van de Spoorwegwet dan wel, indien die bepaling niet van toepassing is, degene die de spoorweginfrastructuur ter beschikking stelt.
-	d.	spoorwegonderneming: elke spoorwegonderneming als bedoeld in artikel 1 van de Spoorwegwet.
+	b.	spoorweginfrastructuur: spoorwegen als bedoeld in artikel 1 van de Spoorwegwet en daarbij horende spoorweginfrastructuur als bedoeld in artikel 1 van de Spoorwegwet dan wel lokale spoorweginfrastructuur als bedoeld in artikel 1 van de Wet lokaal spoor;
+	c.	beheerder van de spoorweginfrastructuur: de beheerder bedoeld in artikel 1 van de Spoorwegwet dan wel, indien die bepaling niet van toepassing is, degene die de spoorweginfrastructuur ter beschikking stelt, dan wel de beheerder, bedoeld in artikel 1 van de Wet lokaal spoor;
+	d.	spoorwegonderneming: elke spoorwegonderneming als bedoeld in artikel 1 van de Spoorwegwet dan wel de vervoerder, bedoeld in artikel 1 van de Wet lokaal spoor.
 
 Artikel 4
 
@@ -2410,6 +2410,10 @@ Paragraaf 4. beroep
 Artikel 654
 
 [Vervallen per 01-01-2013]
+
+Afdeling 6. Aansprakelijkheid voor de kosten van het lokaliseren, markeren en opruimen van een wrak
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
 
@@ -6176,6 +6180,10 @@ Een rechtsvordering tot vergoeding van schade uit hoofde van de afdelingen 4 van
 Artikel 1833a
 
 Een rechtsvordering tot vergoeding van schade uit hoofde van afdeling 5 van titel 6 vervalt door verloop van drie jaren na de aanvang van de dag waarop de schade is ontstaan en in ieder geval door verloop van zes jaren na de gebeurtenis waardoor de schade is ontstaan. Indien de gebeurtenis bestond uit een opeenvolging van feiten met dezelfde oorzaak, loopt de termijn van zes jaren vanaf de dag waarop het eerste van die feiten plaatsvond.
+
+Afdeling 12a. Vorderingen ter zake van kosten van het lokaliseren, markeren en opruimen van een wrak
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Afdeling 13. Luchtrecht
 
