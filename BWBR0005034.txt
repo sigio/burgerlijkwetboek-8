@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 8
-Geldend van 19-09-2018 t/m 30-06-2019
+Geldend van 01-07-2019 t/m heden
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -2429,11 +2429,9 @@ Artikel 656
 	b.	in zijn geheel is veroorzaakt door een handelen of nalaten door een derde met het oogmerk schade te veroorzaken; of
 	c.	in zijn geheel is veroorzaakt door nalatigheid of een andere onrechtmatige daad van een overheid of andere autoriteit die verantwoordelijk is voor het onderhoud van verlichting of andere navigatiehulpmiddelen bij de uitoefening van die taak.
 
-3.	Niets in deze afdeling tast het recht aan van de geregistreerde eigenaar zijn aansprakelijkheid te beperken uit hoofde van titel 7.
+3.	Geen vordering tot vergoeding van de kosten bedoeld in het eerste lid kan tegen de geregistreerde eigenaar worden ingesteld anders dan in overeenstemming met de bepalingen van deze afdeling.
 
-4.	Geen vordering tot vergoeding van de kosten bedoeld in het eerste lid kan tegen de geregistreerde eigenaar worden ingesteld anders dan in overeenstemming met de bepalingen van deze afdeling.
-
-5.	Geen bepaling van dit artikel doet afbreuk aan enig recht van verhaal tegenover derden.
+4.	Geen bepaling van dit artikel doet afbreuk aan enig recht van verhaal tegenover derden.
 
 Artikel 657
 
@@ -2463,7 +2461,7 @@ Artikel 750
 
 2.	Onder reder worden in deze titel mede verstaan de bevrachter, de huurder of andere gebruiker van een schip met inbegrip van degene in wiens handen de exploitatie van een schip is gelegd.
 
-3.	Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 752, eerste lid, onder d, e en f, genoemde werkzaamheden of maatregelen.
+3.	Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 752, eerste lid, onder d, genoemde werkzaamheden of maatregelen.
 
 4.	Onder schip wordt in deze titel zeeschip verstaan. Een schip in aanbouw wordt voor de toepassing van deze titel mede als schip aangemerkt van het ogenblik af, dat de stapelloop aanvangt. Een luchtkussenvoertuig wordt voor de toepassing van deze titel niet als schip aangemerkt. Een platform dat is gebouwd ter exploratie of exploitatie van de natuurlijke rijkdommen van de zeebodem of van de ondergrond daarvan en dat kan drijven, wordt voor de toepassing van deze titel niet als schip aangemerkt gedurende de tijd dat het op de zeebodem rust.
 
@@ -2479,9 +2477,7 @@ Artikel 752
 	a.	vorderingen terzake van dood of letsel, dan wel terzake van verlies van of schade aan zaken (met inbegrip van schade aan kunstwerken van havens, aan dokken, waterwegen of hulpmiddelen voor de scheepvaart), opgekomen aan boord van het schip of in rechtstreeks verband met de exploitatie van het schip of met werkzaamheden ter hulpverlening, alsmede voor vorderingen terzake van schade tengevolge van een of ander;
 	b.	vorderingen terzake van schade ontstaan door vertraging bij het vervoer over zee van lading, reizigers of hun bagage;
 	c.	vorderingen terzake van andere schade ontstaan door inbreuk op enig niet op overeenkomst gegrond vermogensrecht en opgekomen in rechtstreeks verband met de exploitatie van het schip of met werkzaamheden ter hulpverlening;
-	d.	vorderingen terzake van het vlotbrengen, verwijderen, vernietigen of onschadelijk maken van een zee- of binnenschip dat is gezonken, schipbreuk heeft geleden, gestrand of verlaten is, met inbegrip van alles wat aan boord van zulk een schip is of is geweest;
-	e.	vorderingen terzake van het verwijderen, vernietigen of onschadelijk maken van de lading van het schip;
-	f.	vorderingen van een persoon terzake van maatregelen genomen om schade te voorkomen of te verminderen voor welke schade de daarvoor aansprakelijke persoon zijn aansprakelijkheid op grond van deze titel zou kunnen beperken, alsmede voor vorderingen terzake van verdere schade door zulke maatregelen geleden, één en ander echter met uitzondering van dusdanige vorderingen van deze aansprakelijke persoon zelf.
+	d.	vorderingen van een persoon terzake van maatregelen genomen om schade te voorkomen of te verminderen voor welke schade de daarvoor aansprakelijke persoon zijn aansprakelijkheid op grond van deze titel zou kunnen beperken, alsmede voor vorderingen terzake van verdere schade door zulke maatregelen geleden, één en ander echter met uitzondering van dusdanige vorderingen van deze aansprakelijke persoon zelf.
 
 2.	Aansprakelijkheid voor de in het eerste lid genoemde vorderingen kan worden beperkt, ook indien deze, al dan niet op grond van een overeenkomst, zijn ingesteld bij wijze van verhaal of vrijwaring. De aansprakelijkheid voor de vorderingen in het eerste lid genoemd onder d, e of f, kan echter niet worden beperkt voor zover deze vorderingen betrekking hebben op een vergoeding verschuldigd op grond van een overeenkomst met de aansprakelijke persoon.
 
@@ -2492,7 +2488,9 @@ Artikel 753
 	b.	vorderingen voor schade door verontreiniging door olie, zoals deze zijn bedoeld in het op 29 november 1969 tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie of in enige kracht van wet hebbende wijziging van dat Verdrag of Protocol daarbij;
 	c.	vorderingen onderworpen aan enig internationaal verdrag of enige wet, die de beperking van aansprakelijkheid voor kernschade regelt of verbiedt;
 	d.	vorderingen tegen de exploitant van een nucleair schip terzake van kernschade;
-	e.	vorderingen uit hoofde van arbeidsovereenkomst tegen de reder of de hulpverlener ingesteld door zijn ondergeschikten of hun rechtverkrijgenden voor zover deze vorderingen werkzaamheden betreffen in verband met het schip of de hulpverlening, al naar gelang de aansprakelijkheid van de reder of de hulpverlener voor deze vorderingen uit hoofde van de op de arbeidsovereenkomst toepasselijke wet niet of slechts tot een hoger bedrag dan op grond van deze titel het geval ware, kan worden beperkt.
+	e.	vorderingen uit hoofde van arbeidsovereenkomst tegen de reder of de hulpverlener ingesteld door zijn ondergeschikten of hun rechtverkrijgenden voor zover deze vorderingen werkzaamheden betreffen in verband met het schip of de hulpverlening, al naar gelang de aansprakelijkheid van de reder of de hulpverlener voor deze vorderingen uit hoofde van de op de arbeidsovereenkomst toepasselijke wet niet of slechts tot een hoger bedrag dan op grond van deze titel het geval ware, kan worden beperkt;
+	f.	vorderingen ter zake van het vlotbrengen, verwijderen, vernietigen of onschadelijk maken van een zee- of binnenschip dat is gezonken, schipbreuk heeft geleden, gestrand of verlaten is, met inbegrip van alles wat aan boord van zulk een schip is of is geweest;
+	g.	vorderingen ter zake van het verwijderen, vernietigen of onschadelijk maken van de lading van het schip.
 
 2.	Wanneer iemand die op grond van deze titel bevoegd is zijn aansprakelijkheid te beperken, gerechtigd is tegen een schuldeiser een vordering geldend te maken, die voortkomt uit hetzelfde voorval, zullen de respectieve vorderingen met elkaar worden verrekend en wordt de beperking van aansprakelijkheid slechts toegepast op het daarna mogelijkerwijs overblijvende saldo.
 
@@ -2502,9 +2500,7 @@ Niemand is gerechtigd zijn aansprakelijkheid te beperken, indien bewezen is dat 
 
 Artikel 755
 
-1.	Onverminderd het in het tweede lid bepaalde, kan de aansprakelijkheid uit hoofde van deze titel voor andere vorderingen dan die genoemd in artikel 756 die naar aanleiding van éénzelfde voorval zijn ontstaan als volgt worden beperkt:
-	a.	voor vorderingen die niet zijn vorderingen als bedoeld in artikel 752, eerste lid, onder d of e, tot het bedrag bepaald op grond van artikel 6, eerste lid, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996; en
-	b.	voor vorderingen bedoeld in artikel 752, eerste lid, onder d of e (wrakkenfonds), tot het bedrag bepaald op grond van artikel 6, eerste lid, aanhef en onder b, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
+1.	Onverminderd het in het tweede lid bepaalde, kan de aansprakelijkheid uit hoofde van deze titel voor andere vorderingen dan die genoemd in artikel 756 die naar aanleiding van éénzelfde voorval zijn ontstaan worden beperkt tot het bedrag bepaald op grond van artikel 6, eerste lid, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door artikel 3 van het Protocol van 1996, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 8 van het Protocol van 1996.
 
 2.	Bij algemene maatregel van bestuur wordt het bedrag vastgesteld waartoe de aansprakelijkheid uit hoofde van deze titel kan worden beperkt voor schepen die blijkens hun constructie uitsluitend of in hoofdzaak zijn bestemd tot het vervoer van personen en waarvan de tonnage niet groter is dan 300, waarbij dat bedrag voor vorderingen bedoeld in artikel 6, eerste lid, aanhef en onder b, van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1980, 23) zoals gewijzigd door het Protocol van 1996, op een lager aantal rekeneenheden kan worden gesteld dan is bepaald in genoemd artikel 6, eerste lid, aanhef en onder b, onder 1.
 
@@ -2512,9 +2508,9 @@ Artikel 755
 
 4.	Voor de toepassing van deze titel wordt onder tonnage van het schip verstaan de bruto-tonnage van het schip berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
 
-5.	Op verzoek van de eigenaar kan door Onze Minister van Verkeer en Waterstaat een verklaring worden afgegeven betreffende de bruto-tonnage van een schip, berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
+5.	Op verzoek van de eigenaar kan door Onze Minister van Infrastructuur en Waterstaat een verklaring worden afgegeven betreffende de bruto-tonnage van een schip, berekend overeenkomstig de voorschriften voor meting vervat in Bijlage I van het op 23 juni 1969 te Londen tot stand gekomen Internationaal Verdrag betreffende de meting van schepen, 1969.
 
-6.	Deze verklaring wordt afgegeven tegen betaling van de kosten volgens een door Onze Minister van Verkeer en Waterstaat vast te stellen tarief.
+6.	Deze verklaring wordt afgegeven tegen betaling van de kosten volgens een door Onze Minister van Infrastructuur en Waterstaat vast te stellen tarief.
 
 7.	Voor de toepassing van dit artikel en van artikel 756 wordt verstaan onder «Protocol van 1996»: het op 2 mei 1996 te Londen tot stand gekomen Protocol tot wijziging van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1997, 300).
 
@@ -3846,13 +3842,15 @@ Artikel 1060
 
 1.	De eigenaar van een binnenschip en de hulpverlener kunnen door het stellen van één of meer fondsen als bedoeld in artikel 642c van het Wetboek van Burgerlijke Rechtsvordering hun aansprakelijkheid beperken voor de in artikel 1062 genoemde vorderingen.
 
-2.	Onder eigenaar worden in deze titel mede verstaan de bevrachter, de huurder en de beheerder van een binnenschip met inbegrip van degene in wiens handen de exploitatie van een binnenschip is gelegd.
+2.	Onder eigenaar worden in deze titel mede verstaan de huurder of bevrachter aan wie het schip voor eigen gebruik ter beschikking gesteld wordt, alsmede de exploitant van een schip.
 
 3.	Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 1062, eerste lid, onder d, e enf, genoemde werkzaamheden of maatregelen.
 
 4.	Onder binnenschepen worden in deze titel mede verstaan draagvleugelboten, veerponten en kleine vaartuigen, baggermolens, drijvende kranen, elevatoren en alle andere drijvende en verplaatsbare werktuigen, pontons of materiaal van soortgelijke aard, die voldoen aan de in de artikelen 1 en 3 van dit boek ten aanzien van binnenschepen vermelde vereisten.
 
-5.	Een binnenschip in aanbouw wordt voor de toepassing van deze titel mede als binnenschip aangemerkt van het ogenblik af dat de stapelloop aanvangt. Een luchtkussenvoertuig wordt voor de toepassing van deze titel niet als binnenschip aangemerkt.
+5.	Een binnenschip in aanbouw wordt voor de toepassing van deze titel mede als binnenschip aangemerkt van het ogenblik af dat de stapelloop aanvangt. Een luchtkussenvoertuig en een schip dat als bouwwerk als bedoeld in de Woningwet wordt aangemerkt, worden voor de toepassing van deze titel niet als binnenschip aangemerkt.
+
+6.	Onder gevaarlijke stof wordt in deze titel en de daarop gebaseerde regelgeving verstaan de stof die als zodanig bij algemene maatregel van bestuur is aangewezen; de aanwijzing kan worden beperkt tot bepaalde concentraties van de stof, tot bepaalde in de algemene maatregel van bestuur te omschrijven gevaren die aan de stof verbonden zijn, en tot bepaalde daarin te omschrijven situaties waarin de stof zich bevindt.
 
 Artikel 1061
 
@@ -3863,7 +3861,7 @@ Artikel 1061
 Artikel 1062
 
 1.	Onder voorbehoud van de artikelen 1063 en 1064 bestaat de bevoegdheid tot beperking van aansprakelijkheid voor de hierna genoemde vorderingen ingesteld hetzij op grond van overeenkomst, hetzij buiten overeenkomst en zelfs wanneer de aansprakelijkheid uitsluitend voortvloeit uit eigendom of bezit van of een voorrecht op het schip of uit het feit, dat dit onder hoede of toezicht is van hem die zich op de beperking van aansprakelijkheid beroept:
-	a.	vorderingen terzake van dood of letsel, dan wel terzake van verlies van of schade aan zaken (met inbegrip van schade aan kunstwerken van havens, aan dokken, waterwegen, sluizen, bruggen en hulpmiddelen voor de scheepvaart), opgekomen aan boord van het binnenschip of in rechtstreeks verband met de exploitatie van het binnenschip of met werkzaamheden ter hulpverlening, alsmede voor vorderingen terzake van schade tengevolge van een of ander;
+	a.	vorderingen terzake van dood of letsel, dan wel terzake van verlies van of schade aan zaken (met inbegrip van schade aan kunstwerken van havens, aan dokken, waterwegen, sluizen, stuwen, bruggen en hulpmiddelen voor de scheepvaart), opgekomen aan boord van het binnenschip of in rechtstreeks verband met de exploitatie van het binnenschip of met werkzaamheden ter hulpverlening, alsmede voor vorderingen terzake van schade tengevolge van een of ander;
 	b.	vorderingen terzake van schade ontstaan door vertraging bij het vervoer van lading, reizigers of hun bagage;
 	c.	vorderingen terzake van andere schade ontstaan door inbreuk op enig niet op overeenkomst gegrond vermogensrecht en opgekomen in rechtstreeks verband met de exploitatie van het binnenschip of met werkzaamheden ter hulpverlening;
 	d.	vorderingen terzake van het vlotbrengen, verwijderen, vernietigen of onschadelijk maken van een zee- of binnenschip dat is gezonken, schipbreuk heeft geleden, gestrand of verlaten is, met inbegrip van alles wat aan boord van zulk een schip is of is geweest;
